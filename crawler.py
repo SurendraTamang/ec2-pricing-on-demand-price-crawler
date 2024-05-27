@@ -44,4 +44,4 @@ for k_, v_ in instances.items():
     instances_list.append(v_)
 
 df = pd.DataFrame(instances_list)
-df.to_csv(f"{region_name}_instances.csv", index=False)
+df.to_csv(f"{region_name.replace(' ','_')}_instances.csv", index=False)

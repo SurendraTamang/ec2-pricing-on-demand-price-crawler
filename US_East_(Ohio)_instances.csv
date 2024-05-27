@@ -1,0 +1,710 @@
+rateCode,price,Location,Instance Family,vCPU,Instance Type,Memory,Storage,Network Performance,plc:OperatingSystem,plc:InstanceFamily,Operating System,Pre Installed S/W,License Model
+S9P8MT7D8KG5ZA9B.JRTCKXETXF.6YS6EN2CT7,4.0800000000,US East (Ohio),Compute optimized,96,c5.metal,192 GiB,EBS only,25 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+SEHV9G9QTQCUBWUA.JRTCKXETXF.6YS6EN2CT7,11.9040000000,US East (Ohio),Memory optimized,128,r7iz.32xlarge,1024 GiB,EBS only,50000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+SEMV77DSB4WM675R.JRTCKXETXF.6YS6EN2CT7,0.0052000000,US East (Ohio),General purpose,2,t3.nano,0.5 GiB,EBS only,Up to 5 Gigabit,Linux,General Purpose,Linux,NA,No License required
+SF5DE6CG3JJC4T33.JRTCKXETXF.6YS6EN2CT7,13.3440000000,US East (Ohio),Memory optimized,64,x1e.16xlarge,1952 GiB,1 x 1920 SSD,10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+S932RC7TT4XJT6CM.JRTCKXETXF.6YS6EN2CT7,4.1280000000,US East (Ohio),Compute optimized,96,c5ad.24xlarge,192 GiB,2 x 1900 NVMe SSD,20 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+SAAY6F3PMZQGTKU3.JRTCKXETXF.6YS6EN2CT7,6.0480000000,US East (Ohio),Memory optimized,96,r5.metal,768 GiB,EBS only,25 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+SBZ8KRV7W8QGA6U6.JRTCKXETXF.6YS6EN2CT7,5.7000000000,US East (Ohio),Compute optimized,64,hpc6id.32xlarge,1024 GiB,4 x 3800 NVMe SSD,200 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+SCBUFWU4SS9QAGAM.JRTCKXETXF.6YS6EN2CT7,3.8188800000,US East (Ohio),General purpose,48,m6idn.12xlarge,192 GiB,2 x 1425 NVMe SSD,75000 Megabit,Linux,General Purpose,Linux,NA,No License required
+SDQK54UK2HRQTUXV.JRTCKXETXF.6YS6EN2CT7,0.9040000000,US East (Ohio),Memory optimized,16,r5a.4xlarge,128 GiB,EBS only,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+Q9U6XESRG6MJHQHV.JRTCKXETXF.6YS6EN2CT7,0.9040000000,US East (Ohio),Storage optimized,8,i3en.2xlarge,64 GiB,2 x 2500 NVMe SSD,Up to 25 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+QB9ZBCXWS8BWQNGW.JRTCKXETXF.6YS6EN2CT7,0.6144000000,US East (Ohio),Compute optimized,16,c6gd.4xlarge,32 GiB,1 x 950 NVMe SSD,Up to 10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+RA6VBGEB2K8XKAMS.JRTCKXETXF.6YS6EN2CT7,0.8211200000,US East (Ohio),Compute optimized,16,c7a.4xlarge,32 GiB,EBS only,Up to 12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+RCCUWCKFHYJW8JPF.JRTCKXETXF.6YS6EN2CT7,0.3024000000,US East (Ohio),Memory optimized,4,r6id.xlarge,32 GiB,1 x 237 NVMe SSD,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+QA9BJFEXJ4ZGQRGY.JRTCKXETXF.6YS6EN2CT7,54.6000000000,US East (Ohio),Memory optimized,448,u-6tb1.112xlarge,6144 GiB,EBS only,100 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+QBVZBM8HYJ6HUE88.JRTCKXETXF.6YS6EN2CT7,11.1571200000,US East (Ohio),Memory optimized,128,r6in.32xlarge,1024 GiB,EBS only,200000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+RQ5MTXDCVMC97PG6.JRTCKXETXF.6YS6EN2CT7,2.0160000000,US East (Ohio),Memory optimized,32,r5.8xlarge,256 GiB,EBS only,10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+RRENKNMKHKB4WTDN.JRTCKXETXF.6YS6EN2CT7,3.9641000000,US East (Ohio),General purpose,48,m5zn.metal,192 GiB,EBS only,100 Gigabit,Linux,General Purpose,Linux,NA,No License required
+QFHJZ3AXQDA2YJFF.JRTCKXETXF.6YS6EN2CT7,1.0880000000,US East (Ohio),General purpose,16,m5dn.4xlarge,64 GiB,2 x 300 NVMe SSD,Up to 25 Gigabit,Linux,General Purpose,Linux,NA,No License required
+S7XG88DG882ZUEMP.JRTCKXETXF.6YS6EN2CT7,1.3824000000,US East (Ohio),General purpose,32,m6a.8xlarge,128 GiB,EBS only,12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+QJJBPJ9V7NRBK5J9.JRTCKXETXF.6YS6EN2CT7,0.2881500000,US East (Ohio),Storage optimized,2,is4gen.large,12 GiB,1 x 1875 SSD,Up to 25 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+NVPBFSTB7Q5WP4X5.JRTCKXETXF.6YS6EN2CT7,4.6080000000,US East (Ohio),General purpose,96,m5.metal,384 GiB,EBS only,25 Gigabit,Linux,General Purpose,Linux,NA,No License required
+RGU9HRNUAS2TX83W.JRTCKXETXF.6YS6EN2CT7,0.7960000000,US East (Ohio),Compute optimized,16,c4.4xlarge,30 GiB,EBS only,High,Linux,Compute Optimized,Linux,NA,No License required
+RHW8EAZNVJA4KSWC.JRTCKXETXF.6YS6EN2CT7,0.4000000000,US East (Ohio),General purpose,8,m4.2xlarge,32 GiB,EBS only,High,Linux,General Purpose,Linux,NA,No License required
+RCFYPHT7DPK2JUTD.JRTCKXETXF.6YS6EN2CT7,10.9824000000,US East (Ohio),Storage optimized,128,i4i.32xlarge,1024 GiB,8 x 3750 SSD,75000 Megabit,Linux,Storage Optimized,Linux,NA,No License required
+NZX5U28B8SUFVNUN.JRTCKXETXF.6YS6EN2CT7,0.3328000000,US East (Ohio),General purpose,8,t3.2xlarge,32 GiB,EBS only,Up to 5 Gigabit,Linux,General Purpose,Linux,NA,No License required
+P8CW74Q7M4DJF2KP.JRTCKXETXF.6YS6EN2CT7,1.4551700000,US East (Ohio),Storage optimized,16,im4gn.4xlarge,64 GiB,1 x 7500 SSD,25 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+PBQY8X4GF6DXFSB7.JRTCKXETXF.6YS6EN2CT7,7.3440000000,US East (Ohio),Compute optimized,192,c6a.metal,384 GiB,EBS only,50000 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+SVQWW9JRCF3MPR9R.JRTCKXETXF.6YS6EN2CT7,0.1030000000,US East (Ohio),General purpose,2,m5ad.large,8 GiB,1 x 75 NVMe SSD,Up to 10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+SWW7X4E26NRCGRTZ.JRTCKXETXF.6YS6EN2CT7,0.8670000000,US East (Ohio),GPU instance,16,g4ad.4xlarge,64 GiB,600 GB NVMe SSD,Up to 10 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+SYTAHBCAYN2JEU8B.JRTCKXETXF.6YS6EN2CT7,0.1544400000,US East (Ohio),Storage optimized,2,i4g.large,16 GiB,1 x 468 SSD,Up to 10 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+PDR82UWYZ53WE283.JRTCKXETXF.6YS6EN2CT7,0.8336300000,US East (Ohio),Memory optimized,4,x2iedn.xlarge,128 GiB,1 x 118 NVMe SSD,Up to 25 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+PEP6HDERV9Y38MU2.JRTCKXETXF.6YS6EN2CT7,0.0454000000,US East (Ohio),Compute optimized,1,c7gd.medium,2 GiB,1 x 59 NVMe SSD,Up to 12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+T54WSMXQE5PWCK2Y.JRTCKXETXF.6YS6EN2CT7,6.2880000000,US East (Ohio),Memory optimized,96,r5ad.24xlarge,768 GiB,4 x 900 NVMe SSD,20 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+PFKA9SKBMRMAEMWR.JRTCKXETXF.6YS6EN2CT7,2.7216000000,US East (Ohio),Compute optimized,48,c6in.12xlarge,96 GiB,EBS only,75000 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+Q236HUQXMUFFR9AN.JRTCKXETXF.6YS6EN2CT7,0.1000000000,US East (Ohio),General purpose,2,m4.large,8 GiB,EBS only,Moderate,Linux,General Purpose,Linux,NA,No License required
+Q2VNHJPJBFJWQJZN.JRTCKXETXF.6YS6EN2CT7,1.8432000000,US East (Ohio),Compute optimized,48,c6gd.12xlarge,96 GiB,2 x 1425 NVMe SSD,20 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+Q36TFZ68SKEZANJ2.JRTCKXETXF.6YS6EN2CT7,1.6480000000,US East (Ohio),General purpose,32,m5ad.8xlarge,128 GiB,2 x 600 NVMe SSD,Up to 10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+T69XD9BXQWFTCUWQ.JRTCKXETXF.6YS6EN2CT7,1.9980000000,US East (Ohio),Storage optimized,16,d3.4xlarge,128 GiB,12 x 2000 HDD,Up to 15 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+T74XMWDFWAHEZK2U.JRTCKXETXF.6YS6EN2CT7,2.7200000000,US East (Ohio),Compute optimized,64,c6i.16xlarge,128 GiB,EBS only,25000 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+Q4X2B378EJXVN5M4.JRTCKXETXF.6YS6EN2CT7,1.2320000000,US East (Ohio),General purpose,32,m6g.8xlarge,128 GiB,EBS only,12 Gigabit,Linux,General Purpose,Linux,NA,No License required
+PW85GY59RMU8XUS4.JRTCKXETXF.6YS6EN2CT7,8.2368000000,US East (Ohio),Storage optimized,96,i4i.24xlarge,768 GiB,6 x 3750 NVMe SSD,56250 Megabit,Linux,Storage Optimized,Linux,NA,No License required
+U29WF22NSMEHC7Z5.JRTCKXETXF.6YS6EN2CT7,2.4480000000,US East (Ohio),Compute optimized,64,c6a.16xlarge,128 GiB,EBS only,25000 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+Q3QWCRNMD5F4WFXK.JRTCKXETXF.6YS6EN2CT7,0.1530000000,US East (Ohio),Compute optimized,4,c6a.xlarge,8 GiB,EBS only,Up to 12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+U2W6CYWCQQ6UZQ65.JRTCKXETXF.6YS6EN2CT7,0.2980000000,US East (Ohio),Memory optimized,4,r5n.xlarge,32 GiB,EBS only,Up to 25 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+RSSD8A7PYJV5U7WZ.JRTCKXETXF.6YS6EN2CT7,12.7008000000,US East (Ohio),Memory optimized,192,r7i.metal-48xl,1536 GiB,EBS only,50000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+Q78HZWP6W7SUFFC7.JRTCKXETXF.6YS6EN2CT7,1.3760000000,US East (Ohio),General purpose,32,m5a.8xlarge,128 GiB,EBS only,Up to 10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+P3HTJRY3NFSJKN9B.JRTCKXETXF.6YS6EN2CT7,0.6048000000,US East (Ohio),Memory optimized,8,r6id.2xlarge,64 GiB,1 x 474 NVMe SSD,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+SJ8W88EE5U3YBGYN.JRTCKXETXF.6YS6EN2CT7,0.8640000000,US East (Ohio),Compute optimized,16,c5n.4xlarge,42 GiB,EBS only,Up to 25 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+U9THABHE6YURRJ8K.JRTCKXETXF.6YS6EN2CT7,2.3040000000,US East (Ohio),Compute optimized,48,c5d.12xlarge,96 GiB,2 x 900 NVMe SSD,12 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+UEK6J9WUPXKBUKPJ.JRTCKXETXF.6YS6EN2CT7,2.9030000000,US East (Ohio),Compute optimized,64,c7gd.metal,128 GiB,2 x 1900 NVMe SSD,30 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+STQD2F27P6T7GHEB.JRTCKXETXF.6YS6EN2CT7,3.7968000000,US East (Ohio),General purpose,64,m6id.16xlarge,256 GiB,2 x 1900 NVMe SSD,25000 Megabit,Linux,General Purpose,Linux,NA,No License required
+UH2ASK67CVTXK35G.JRTCKXETXF.6YS6EN2CT7,2.1773000000,US East (Ohio),Memory optimized,32,r7gd.8xlarge,256 GiB,1 x 1900 NVMe SSD,15 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+UH8SBACAHA9KG84N.JRTCKXETXF.6YS6EN2CT7,0.2890000000,US East (Ohio),Compute optimized,8,c7g.2xlarge,16 GiB,EBS only,Up to 15 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+UJSUMXN2V68MKC8Z.JRTCKXETXF.6YS6EN2CT7,0.6160000000,US East (Ohio),General purpose,16,m6g.4xlarge,64 GiB,EBS only,Up to 10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+UMK29BWNESP838CA.JRTCKXETXF.6YS6EN2CT7,14.4000000000,US East (Ohio),GPU instance,64,p2.16xlarge,732 GiB,EBS only,20 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+R9BW5CFBDDUU2ZH5.JRTCKXETXF.6YS6EN2CT7,3.2844800000,US East (Ohio),Compute optimized,64,c7a.16xlarge,128 GiB,EBS only,25000 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+QYNBDYVRFN9DWHZR.JRTCKXETXF.6YS6EN2CT7,3.2640000000,US East (Ohio),General purpose,48,m5dn.12xlarge,192 GiB,2 x 900 GB NVMe SSD,50 Gigabit,Linux,General Purpose,Linux,NA,No License required
+QYPUNNNDFUB78S9D.JRTCKXETXF.6YS6EN2CT7,0.7232000000,US East (Ohio),General purpose,16,m6gd.4xlarge,64 GiB,1 x 950 NVMe SSD,Up to 10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+UAHVXR6M5PWGYBDN.JRTCKXETXF.6YS6EN2CT7,2.3040000000,US East (Ohio),Memory optimized,32,r5d.8xlarge,256 GiB,2 x 600 NVMe SSD,10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+QZN43S5CUE94W75G.JRTCKXETXF.6YS6EN2CT7,0.1720000000,US East (Ohio),General purpose,4,m5a.xlarge,16 GiB,EBS only,Up to 10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+VWC546ENDWKDXT2T.JRTCKXETXF.6YS6EN2CT7,0.2260000000,US East (Ohio),General purpose,4,m5d.xlarge,16 GiB,1 x 150 NVMe SSD,Up to 10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+TBJ68UBKCQVE986J.JRTCKXETXF.6YS6EN2CT7,7.1520000000,US East (Ohio),Memory optimized,96,r5b.24xlarge,768 GiB,EBS only,25 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+TBV6C3VKSXKFHHSC.JRTCKXETXF.6YS6EN2CT7,0.1504000000,US East (Ohio),General purpose,4,t3a.xlarge,16 GiB,EBS only,Up to 5 Gigabit,Linux,General Purpose,Linux,NA,No License required
+VZV72UMS8BZ27FU8.JRTCKXETXF.6YS6EN2CT7,3.1752000000,US East (Ohio),Memory optimized,48,r7i.12xlarge,384 GiB,EBS only,18750 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+QP72UBS5Q56J84VN.JRTCKXETXF.6YS6EN2CT7,1.5631200000,US East (Ohio),Memory optimized,16,r6idn.4xlarge,128 GiB,1 x 950 NVMe SSD,Up to 50000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+W2G7XT2W83MU44PY.JRTCKXETXF.6YS6EN2CT7,3.6720000000,US East (Ohio),Compute optimized,96,c6a.24xlarge,192 GiB,EBS only,37500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+QQREU4VDJWMFQHN2.JRTCKXETXF.6YS6EN2CT7,3.6960000000,US East (Ohio),Compute optimized,96,c5a.24xlarge,192 GiB,EBS only,20 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+TJFAKSTE27SG7ZVK.JRTCKXETXF.6YS6EN2CT7,9.8534400000,US East (Ohio),Compute optimized,192,c7a.metal-48xl,384 GiB,EBS only,50000 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+VM34SRHCTMHKKGF4.JRTCKXETXF.6YS6EN2CT7,0.8064000000,US East (Ohio),General purpose,16,m7i.4xlarge,64 GiB,EBS only,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+TEVGVY2M4SJF9D6A.JRTCKXETXF.6YS6EN2CT7,1.1520000000,US East (Ohio),Memory optimized,16,r5d.4xlarge,128 GiB,2 x 300 NVMe SSD,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+QU23QP46J3B7WM7Z.JRTCKXETXF.6YS6EN2CT7,0.9776000000,US East (Ohio),GPU instance,8,g6.2xlarge,32 GiB,1 x 450 GB NVMe SSD,Up to 10 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+TN5Z98KXNVSUU7Q7.JRTCKXETXF.6YS6EN2CT7,1.9584000000,US East (Ohio),General purpose,48,m7g.12xlarge,192 GiB,EBS only,22500 Megabit,Linux,General Purpose,Linux,NA,No License required
+VPV32DHW3HG6K5EQ.JRTCKXETXF.6YS6EN2CT7,0.1008000000,US East (Ohio),Memory optimized,2,r6g.large,16 GiB,EBS only,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+VQA7P2UH5V6YG4C4.JRTCKXETXF.6YS6EN2CT7,0.3840000000,US East (Ohio),General purpose,8,m5.2xlarge,32 GiB,EBS only,Up to 10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+VQHZDZ9JA2WEK8JD.JRTCKXETXF.6YS6EN2CT7,0.9360000000,US East (Ohio),Storage optimized,16,h1.4xlarge,64 GiB,2 x 2000 HDD,Up to 10 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+VQUSY3ZZC97ACQR4.JRTCKXETXF.6YS6EN2CT7,0.4032000000,US East (Ohio),Memory optimized,8,r6g.2xlarge,64 GiB,EBS only,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+PQ4NME8XSHGB4VFU.JRTCKXETXF.6YS6EN2CT7,0.0672000000,US East (Ohio),General purpose,2,t4g.large,8 GiB,EBS only,Up to 5 Gigabit,Linux,General Purpose,Linux,NA,No License required
+MFRQ7GCEAREYWGFS.JRTCKXETXF.6YS6EN2CT7,2.8560000000,US East (Ohio),General purpose,48,m5n.12xlarge,192 GiB,EBS only,50 Gigabit,Linux,General Purpose,Linux,NA,No License required
+MGQ2J595ZFD7ZNNA.JRTCKXETXF.6YS6EN2CT7,10.0035000000,US East (Ohio),Memory optimized,96,x2idn.24xlarge,1536 GiB,2 x 1425 NVMe SSD,75 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+MEUKXBZNWM7HEXEP.JRTCKXETXF.6YS6EN2CT7,2.3052000000,US East (Ohio),Storage optimized,16,is4gen.4xlarge,96 GiB,2 x 7500 SSD,25 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+KUA7WD8CNCMGW7ZV.JRTCKXETXF.6YS6EN2CT7,0.0768000000,US East (Ohio),Compute optimized,2,c6gd.large,4 GiB,1 x 118 NVMe SSD,Up to 10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+KWWUV365YCTMZSU7.JRTCKXETXF.6YS6EN2CT7,8.0640000000,US East (Ohio),Memory optimized,128,r6i.metal,1024 GiB,EBS only,50000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+KXZVS9AJBTN5NBSE.JRTCKXETXF.6YS6EN2CT7,1.8720000000,US East (Ohio),Storage optimized,32,h1.8xlarge,128 GiB,4 x 2000 HDD,10 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+MJDC4N9RDDUWAPB6.JRTCKXETXF.6YS6EN2CT7,1.6240000000,US East (Ohio),GPU instance,16,g5.4xlarge,64 GiB,1 x 600 GB NVMe SSD,Up to 25 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+MKSGJ3646DZKWB42.JRTCKXETXF.6YS6EN2CT7,0.0770000000,US East (Ohio),Compute optimized,2,c5a.large,4 GiB,EBS only,Up to 10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+MN2KZ8W3UXT2QTSQ.JRTCKXETXF.6YS6EN2CT7,11.1571200000,US East (Ohio),Memory optimized,128,r6in.metal,1024 GiB,EBS only,200000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+MNQ4KT73H2ZJJR69.JRTCKXETXF.6YS6EN2CT7,2.7460000000,US East (Ohio),Storage optimized,32,i4i.8xlarge,256 GiB,2 x 3750 NVMe SSD,18750 Megabit,Linux,Storage Optimized,Linux,NA,No License required
+MPBWY927RQ87FVVX.JRTCKXETXF.6YS6EN2CT7,2.4192000000,US East (Ohio),Memory optimized,32,r6id.8xlarge,256 GiB,1 x 1900 NVMe SSD,12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+MM5HE6KT2HVWECAH.JRTCKXETXF.6YS6EN2CT7,0.3629000000,US East (Ohio),Compute optimized,8,c7gd.2xlarge,16 GiB,1 x 475 NVMe SSD,Up to 15 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+MQPHBZP7D63TUEBM.JRTCKXETXF.6YS6EN2CT7,0.5040000000,US East (Ohio),Memory optimized,8,r5.2xlarge,64 GiB,EBS only,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+MR6JQX2NC7NV34DG.JRTCKXETXF.6YS6EN2CT7,3.6288000000,US East (Ohio),Memory optimized,48,r6id.12xlarge,384 GiB,2 x 1425 NVMe SSD,18750 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+MU9EJXKJ6TW9T65R.JRTCKXETXF.6YS6EN2CT7,0.3008000000,US East (Ohio),General purpose,8,t3a.2xlarge,32 GiB,EBS only,Up to 5 Gigabit,Linux,General Purpose,Linux,NA,No License required
+MT3854RSUYDEY9SK.JRTCKXETXF.6YS6EN2CT7,1.9678600000,US East (Ohio),Machine Learning ASIC Instances,32,inf2.8xlarge,128 GiB,EBS only,Up to 25 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+MNQK42E37YV33WD8.JRTCKXETXF.6YS6EN2CT7,6.0480000000,US East (Ohio),Memory optimized,96,r5.24xlarge,768 GiB,EBS only,25 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+MNT8E9UPH9UED9CH.JRTCKXETXF.6YS6EN2CT7,0.9910000000,US East (Ohio),General purpose,12,m5zn.3xlarge,48 GiB,EBS only,Up to 25 Gigabit,Linux,General Purpose,Linux,NA,No License required
+KWYZFXP7XRGGWS4G.JRTCKXETXF.6YS6EN2CT7,2.4192000000,US East (Ohio),Memory optimized,48,r6g.12xlarge,384 GiB,EBS only,20 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+M3HKXCNKPGCZDMCG.JRTCKXETXF.6YS6EN2CT7,24.4800000000,US East (Ohio),GPU instance,64,p3.16xlarge,488 GiB,EBS only,25 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+M47ZT4XBH9AEY87R.JRTCKXETXF.6YS6EN2CT7,2.4710400000,US East (Ohio),Storage optimized,32,i4g.8xlarge,256 GiB,2 x 3750 SSD,18750 Megabit,Linux,Storage Optimized,Linux,NA,No License required
+M4PPRN87N5TJUXT5.JRTCKXETXF.6YS6EN2CT7,0.1248000000,US East (Ohio),Compute optimized,2,c7gn.large,4 GiB,EBS only,Up to 30 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+M9KYZQ9AUQJN8Q23.JRTCKXETXF.6YS6EN2CT7,0.4680000000,US East (Ohio),Storage optimized,8,h1.2xlarge,32 GiB,1 x 2000 HDD,Up to 10 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+MDZF8EAX36PHXWD9.JRTCKXETXF.6YS6EN2CT7,6.4512000000,US East (Ohio),Compute optimized,128,c6id.32xlarge,256 GiB,4 x 1900 NVMe SSD,50000 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+MCKTRZX5CWUZ595Q.JRTCKXETXF.6YS6EN2CT7,8.2944000000,US East (Ohio),General purpose,192,m6a.48xlarge,768 GiB,EBS only,50000 Megabit,Linux,General Purpose,Linux,NA,No License required
+M7RS3WVJAZWABDS9.JRTCKXETXF.6YS6EN2CT7,0.4760000000,US East (Ohio),General purpose,8,m5n.2xlarge,32 GiB,EBS only,Up to 25 Gigabit,Linux,General Purpose,Linux,NA,No License required
+KQDYBADUXPB4WNNK.JRTCKXETXF.6YS6EN2CT7,26.6880000000,US East (Ohio),Memory optimized,128,x1e.32xlarge,3904 GiB,2 x 1920 SSD,25 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+KMBWGP7PGETU962N.JRTCKXETXF.6YS6EN2CT7,10.9820000000,US East (Ohio),Storage optimized,128,i4i.metal,1024 GiB,8 x 3750 NVMe SSD,75000 Megabit,Linux,Storage Optimized,Linux,NA,No License required
+KJX2YS3Q6PB6HQVS.JRTCKXETXF.6YS6EN2CT7,5.3440000000,US East (Ohio),Memory optimized,64,r5dn.16xlarge,512 GiB,4 x 600 NVMe SSD,75 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+KH24ZCVEYVCZXYYY.JRTCKXETXF.6YS6EN2CT7,4.8960000000,US East (Ohio),Compute optimized,128,c6a.32xlarge,256 GiB,EBS only,50000 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+KHXDUCNSAZ88AKZ9.JRTCKXETXF.6YS6EN2CT7,4.8384000000,US East (Ohio),Compute optimized,96,c6id.24xlarge,192 GiB,4 x 1425 NVMe SSD,37500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+N44ZQGRTF65NEGMF.JRTCKXETXF.6YS6EN2CT7,2.5704000000,US East (Ohio),Memory optimized,48,r7g.12xlarge,384 GiB,EBS only,22500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+N59NPXZ4QDCR5ZMX.JRTCKXETXF.6YS6EN2CT7,2.7520000000,US East (Ohio),Compute optimized,64,c5ad.16xlarge,128 GiB,2 x 1200 NVMe SSD,20 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+NC47F9MHVAV558W3.JRTCKXETXF.6YS6EN2CT7,0.8340000000,US East (Ohio),Memory optimized,4,x1e.xlarge,122 GiB,1 x 120 SSD,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+NC8NEXNHACCYWEMQ.JRTCKXETXF.6YS6EN2CT7,7.2000000000,US East (Ohio),Compute optimized,192,hpc7a.96xlarge,768 GiB,EBS only,300 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+NAM8F5HNG4XVJSFW.JRTCKXETXF.6YS6EN2CT7,3.6864000000,US East (Ohio),Memory optimized,64,r6gd.16xlarge,512 GiB,2 x 1900 NVMe SSD,25 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+N4KG7EP9J6WV2KWM.JRTCKXETXF.6YS6EN2CT7,7.8240000000,US East (Ohio),GPU instance,96,g4dn.metal,384 GiB,2 x 900 GB NVMe SSD,100 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+N2WQDKCSVUHTJTHW.JRTCKXETXF.6YS6EN2CT7,7.3032000000,US East (Ohio),Memory optimized,96,r7a.24xlarge,768 GiB,EBS only,37500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+N5VMWTACRDKY6K8H.JRTCKXETXF.6YS6EN2CT7,7.2576000000,US East (Ohio),Compute optimized,128,c6in.metal,256 GiB,EBS only,200000 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+MZJXQFHC4DYUWK6T.JRTCKXETXF.6YS6EN2CT7,0.1186500000,US East (Ohio),General purpose,2,m6id.large,8 GiB,1 x 118 NVMe SSD,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+MXDZYQY8QA6CJAXU.JRTCKXETXF.6YS6EN2CT7,8.0160000000,US East (Ohio),Memory optimized,96,r5dn.24xlarge,768 GiB,4 x 900 NVMe SSD,100 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+MXN37BPK2HKTB6NF.JRTCKXETXF.6YS6EN2CT7,2.7648000000,US East (Ohio),Memory optimized,48,r6gd.12xlarge,384 GiB,2 x 1425 NVMe SSD,20 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+MYMUMGZED8DAY7TQ.JRTCKXETXF.6YS6EN2CT7,0.4271000000,US East (Ohio),General purpose,8,m7gd.2xlarge,32 GiB,1 x 475 NVMe SSD,Up to 15 Gigabit,Linux,General Purpose,Linux,NA,No License required
+MXHJC9H6DVD95M9K.JRTCKXETXF.6YS6EN2CT7,0.3088800000,US East (Ohio),Storage optimized,4,i4g.xlarge,32 GiB,1 x 937 SSD,Up to 10 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+MYZQBTF4P45W3U4A.JRTCKXETXF.6YS6EN2CT7,2.1760000000,US East (Ohio),Compute optimized,64,c6g.16xlarge,128 GiB,EBS only,25 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+N7KJKBRXVX94TQW5.JRTCKXETXF.6YS6EN2CT7,0.0850000000,US East (Ohio),Compute optimized,2,c5.large,4 GiB,EBS only,Up to 10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+N8MKK9PQX3NREQU9.JRTCKXETXF.6YS6EN2CT7,7.2000000000,US East (Ohio),Compute optimized,48,hpc7a.24xlarge,768 GiB,EBS only,300 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+KXMWDSQ7QVNTCSV7.JRTCKXETXF.6YS6EN2CT7,2.7120000000,US East (Ohio),General purpose,48,m5d.12xlarge,192 GiB,2 x 900 NVMe SSD,10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+KY4J4EE2VE67BY8T.JRTCKXETXF.6YS6EN2CT7,9.3787200000,US East (Ohio),Memory optimized,96,r6idn.24xlarge,768 GiB,4 x 1425 NVMe SSD,150000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+KZ96VHDQYH98S9EA.JRTCKXETXF.6YS6EN2CT7,3.1262400000,US East (Ohio),Memory optimized,32,r6idn.8xlarge,256 GiB,1 x 1900 NVMe SSD,50000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+MD5WDRNPRHM2XAGC.JRTCKXETXF.6YS6EN2CT7,0.3980000000,US East (Ohio),Compute optimized,8,c4.2xlarge,15 GiB,EBS only,High,Linux,Compute Optimized,Linux,NA,No License required
+MDSBS66AS4N5QZPV.JRTCKXETXF.6YS6EN2CT7,0.9000000000,US East (Ohio),GPU instance,4,p2.xlarge,61 GiB,EBS only,High,Linux,Accelerated Computing,Linux,NA,No License required
+NSD5TSTJA3Q93PC7.JRTCKXETXF.6YS6EN2CT7,6.6752000000,US East (Ohio),GPU instance,96,g6.24xlarge,384 GiB,4 X 940 GB NVMe SSD,50 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+NT8A6EP5ZXAMR32N.JRTCKXETXF.6YS6EN2CT7,0.0680000000,US East (Ohio),Memory optimized,1,r7gd.medium,8 GiB,1 x 59 NVMe SSD,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+NVDUCTX9URYDEXSD.JRTCKXETXF.6YS6EN2CT7,2.7216000000,US East (Ohio),Memory optimized,48,r6a.12xlarge,384 GiB,EBS only,18750 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+MW8UQZATN9TSYX2K.JRTCKXETXF.6YS6EN2CT7,1.2480000000,US East (Ohio),Storage optimized,16,i3.4xlarge,122 GiB,2 x 1900 NVMe SSD,Up to 10 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+N9M98943HADDQ2DQ.JRTCKXETXF.6YS6EN2CT7,2.9760000000,US East (Ohio),Memory optimized,32,r7iz.8xlarge,256 GiB,EBS only,12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+N9NYDBGC7WBQEZE2.JRTCKXETXF.6YS6EN2CT7,0.8543000000,US East (Ohio),General purpose,16,m7gd.4xlarge,64 GiB,1 x 950 NVMe SSD,Up to 15 Gigabit,Linux,General Purpose,Linux,NA,No License required
+NKB8DU47ZKKBXW65.JRTCKXETXF.6YS6EN2CT7,1.3600000000,US East (Ohio),Compute optimized,32,c6i.8xlarge,64 GiB,EBS only,12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+NJP2EE5BPGWWNPBX.JRTCKXETXF.6YS6EN2CT7,0.0723000000,US East (Ohio),Compute optimized,2,c7g.large,4 GiB,EBS only,Up to 12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+NDZGNRFVQ4J59K77.JRTCKXETXF.6YS6EN2CT7,0.6607000000,US East (Ohio),General purpose,8,m5zn.2xlarge,32 GiB,EBS only,Up to 25 Gigabit,Linux,General Purpose,Linux,NA,No License required
+NEEFFGMWTSG487WX.JRTCKXETXF.6YS6EN2CT7,1.7136000000,US East (Ohio),Memory optimized,32,r7g.8xlarge,256 GiB,EBS only,15 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+NES344FTJTVN47RU.JRTCKXETXF.6YS6EN2CT7,0.8048000000,US East (Ohio),GPU instance,4,g6.xlarge,16 GiB,1 x 250 GB NVMe SSD,Up to 10 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+NF94DUQA29AU4W9G.JRTCKXETXF.6YS6EN2CT7,0.0957600000,US East (Ohio),General purpose,2,m7i-flex.large,8 GiB,EBS only,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+RMEXS26VXNREG46P.JRTCKXETXF.6YS6EN2CT7,4.6080000000,US East (Ohio),Compute optimized,96,c5d.metal,192 GiB,4 x 900 NVMe SSD,25 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+RN6ZXCV87AETTGQS.JRTCKXETXF.6YS6EN2CT7,1.5392000000,US East (Ohio),GPU instance,16,gr6.4xlarge,128 GiB,1 x 600 GB NVMe SSD,Up to 25 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+RNUNXTYQMZDHD9S7.JRTCKXETXF.6YS6EN2CT7,2.8560000000,US East (Ohio),Compute optimized,64,c7i.16xlarge,128 GiB,EBS only,25000 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+QCSMVCZNMCH7FWY6.JRTCKXETXF.6YS6EN2CT7,5.6952000000,US East (Ohio),General purpose,96,m6id.24xlarge,384 GiB,4 x 1425 NVMe SSD,37500 Megabit,Linux,General Purpose,Linux,NA,No License required
+QA5JVUUHB8QXYEYM.JRTCKXETXF.6YS6EN2CT7,0.4520000000,US East (Ohio),Storage optimized,4,i3en.xlarge,32 GiB,1 x 2500 NVMe SSD,Up to 25 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+QHBKGKDQEU5DBPVM.JRTCKXETXF.6YS6EN2CT7,2.4480000000,US East (Ohio),GPU instance,32,g5.8xlarge,128 GiB,1 x 900 GB NVMe SSD,25 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+S89PRF6W86HYCKPG.JRTCKXETXF.6YS6EN2CT7,4.6080000000,US East (Ohio),Memory optimized,64,r5d.16xlarge,512 GiB,4 x 600 NVMe SSD,20 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+S8QRKZX9THS6ASZS.JRTCKXETXF.6YS6EN2CT7,2.0144000000,US East (Ohio),GPU instance,32,g6.8xlarge,128 GiB,2 x 450 GB NVMe SSD,25 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+RCTATTNMU4FRBNZ2.JRTCKXETXF.6YS6EN2CT7,13.3380000000,US East (Ohio),Memory optimized,128,x2idn.metal,2048 GiB,2 x 1900 NVMe SSD,100 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+RFW72CZF94FBVT5H.JRTCKXETXF.6YS6EN2CT7,0.0864000000,US East (Ohio),Compute optimized,2,c6gn.large,4 GiB,EBS only,Up to 25 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+NXNRJ4X9TQR2CVBZ.JRTCKXETXF.6YS6EN2CT7,0.1080000000,US East (Ohio),Compute optimized,2,c5n.large,5.25 GiB,EBS only,Up to 25 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+REKPRX9EC64HXMW7.JRTCKXETXF.6YS6EN2CT7,7.3440000000,US East (Ohio),Compute optimized,192,c6a.48xlarge,384 GiB,EBS only,50000 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+P7XWJ7N26M8BR9NQ.JRTCKXETXF.6YS6EN2CT7,7.2576000000,US East (Ohio),Memory optimized,128,r6a.32xlarge,1024 GiB,EBS only,50000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+P956DX3AA8XRUMDA.JRTCKXETXF.6YS6EN2CT7,7.5936000000,US East (Ohio),General purpose,128,m6id.metal,512 GiB,4 x 1900 NVMe SSD,50000 Megabit,Linux,General Purpose,Linux,NA,No License required
+PBKS5DBXUY3XY6XG.JRTCKXETXF.6YS6EN2CT7,5.6720000000,US East (Ohio),GPU instance,48,g5.12xlarge,192 GiB,1 x 3800 GB NVMe SSD,40 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+PBSQ5JDW6FKXQ4QF.JRTCKXETXF.6YS6EN2CT7,3.3345000000,US East (Ohio),Memory optimized,16,x2iedn.4xlarge,512 GiB,1 x 475 NVMe SSD,Up to 25 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+SY85B5JBVMYGADC5.JRTCKXETXF.6YS6EN2CT7,0.3080000000,US East (Ohio),Compute optimized,8,c5a.2xlarge,16 GiB,EBS only,Up to 10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+PRVHKRVEVFSNEWE3.JRTCKXETXF.6YS6EN2CT7,2.6112000000,US East (Ohio),General purpose,64,m7g.metal,256 GiB,EBS only,30 Gigabit,Linux,General Purpose,Linux,NA,No License required
+T4SWW95MZ82F64W8.JRTCKXETXF.6YS6EN2CT7,7.2576000000,US East (Ohio),Memory optimized,96,r6id.24xlarge,768 GiB,4 x 1425 NVMe SSD,37500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+T6Z5ZM3V7QRTXCC5.JRTCKXETXF.6YS6EN2CT7,0.0770000000,US East (Ohio),General purpose,2,m6g.large,8 GiB,EBS only,Up to 10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+RTV6WVNZSVEKJ6VQ.JRTCKXETXF.6YS6EN2CT7,2.3123000000,US East (Ohio),Compute optimized,64,c7g.16xlarge,128 GiB,EBS only,30 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+RVVZ6EKZ8BST5GMT.JRTCKXETXF.6YS6EN2CT7,0.6880000000,US East (Ohio),Compute optimized,16,c5ad.4xlarge,32 GiB,2 x 300 NVMe SSD,Up to 10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+PVR9E4FZUNNNAM9W.JRTCKXETXF.6YS6EN2CT7,2.7520000000,US East (Ohio),General purpose,64,m5a.16xlarge,256 GiB,EBS only,12 Gigabit,Linux,General Purpose,Linux,NA,No License required
+Q3PQCVWR493GW5JR.JRTCKXETXF.6YS6EN2CT7,0.4520000000,US East (Ohio),Memory optimized,8,r5a.2xlarge,64 GiB,EBS only,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+RWY5P9FB6JQYYM78.JRTCKXETXF.6YS6EN2CT7,2.1280000000,US East (Ohio),Memory optimized,32,r4.8xlarge,244 GiB,EBS only,10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+Q3YJ6KRRTZ6VGRGK.JRTCKXETXF.6YS6EN2CT7,0.9040000000,US East (Ohio),General purpose,16,m5d.4xlarge,64 GiB,2 x 300 NVMe SSD,Up to 10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+RXHS8BSAF6EAJ6R8.JRTCKXETXF.6YS6EN2CT7,1.2240000000,US East (Ohio),Compute optimized,32,c6a.8xlarge,64 GiB,EBS only,12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+Q5EY5K6SSHSDVN5H.JRTCKXETXF.6YS6EN2CT7,2.4344000000,US East (Ohio),Memory optimized,32,r7a.8xlarge,256 GiB,EBS only,12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+Q5JJAMPXQDKX6KXX.JRTCKXETXF.6YS6EN2CT7,6.1440000000,US East (Ohio),General purpose,128,m6i.metal,512 GiB,EBS only,50000 Megabit,Linux,General Purpose,Linux,NA,No License required
+RXYEZ3QXT2GWNMRK.JRTCKXETXF.6YS6EN2CT7,1.0640000000,US East (Ohio),Memory optimized,16,r4.4xlarge,122 GiB,EBS only,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+U4X443UQC5K8CM42.JRTCKXETXF.6YS6EN2CT7,0.1260000000,US East (Ohio),Memory optimized,2,r5.large,16 GiB,EBS only,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+S3ECPXKCM3R5MT3P.JRTCKXETXF.6YS6EN2CT7,1.8984000000,US East (Ohio),General purpose,32,m6id.8xlarge,128 GiB,1 x 1900 NVMe SSD,12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+U5PHPNZUM3BCD7M2.JRTCKXETXF.6YS6EN2CT7,3.3415200000,US East (Ohio),General purpose,48,m6in.12xlarge,192 GiB,EBS only,75000 Megabit,Linux,General Purpose,Linux,NA,No License required
+RZXF5TTVXK9N84JG.JRTCKXETXF.6YS6EN2CT7,0.1071000000,US East (Ohio),Memory optimized,2,r7g.large,16 GiB,EBS only,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+PT9C8N2WAUYTKK7B.JRTCKXETXF.6YS6EN2CT7,1.4464000000,US East (Ohio),General purpose,32,m6gd.8xlarge,128 GiB,1 x 1900 NVMe SSD,12 Gigabit,Linux,General Purpose,Linux,NA,No License required
+PTZGQUAZ779SMBSS.JRTCKXETXF.6YS6EN2CT7,1.7342000000,US East (Ohio),Compute optimized,48,c7g.12xlarge,96 GiB,EBS only,22500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+PUKYUSBPNBUE349E.JRTCKXETXF.6YS6EN2CT7,1.3232000000,US East (Ohio),GPU instance,16,g6.4xlarge,64 GiB,1 x 600 GB NVMe SSD,Up to 25 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+PUVQARX8GDMUJC2E.JRTCKXETXF.6YS6EN2CT7,0.1130000000,US East (Ohio),Memory optimized,2,r5a.large,16 GiB,EBS only,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+U89ZGFBT83MY73GX.JRTCKXETXF.6YS6EN2CT7,0.1130000000,US East (Ohio),General purpose,2,m5d.large,8 GiB,1 x 75 NVMe SSD,Up to 10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+SJUJPCXYUW9YDY2S.JRTCKXETXF.6YS6EN2CT7,0.1591200000,US East (Ohio),General purpose,2,m6idn.large,8 GiB,1 x 118 NVMe SSD,Up to 25000 Megabit,Linux,General Purpose,Linux,NA,No License required
+QXZ6UKW26NAJPS5F.JRTCKXETXF.6YS6EN2CT7,0.2373000000,US East (Ohio),General purpose,4,m6id.xlarge,16 GiB,1 x 237 NVMe SSD,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+QM2BGAFGX6R5TQBU.JRTCKXETXF.6YS6EN2CT7,2.0960000000,US East (Ohio),Memory optimized,32,r5ad.8xlarge,256 GiB,2 x 600 NVMe SSD,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+P5SUV2TSUPADCTYR.JRTCKXETXF.6YS6EN2CT7,5.5641600000,US East (Ohio),General purpose,96,m7a.24xlarge,384 GiB,EBS only,37500 Megabit,Linux,General Purpose,Linux,NA,No License required
+UEXBWRY6WTSZH5TN.JRTCKXETXF.6YS6EN2CT7,2.2320000000,US East (Ohio),Memory optimized,24,z1d.6xlarge,192 GiB,1 x 900 NVMe SSD,10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+P6DPHTCC7X7T83SX.JRTCKXETXF.6YS6EN2CT7,2.0736000000,US East (Ohio),General purpose,48,m6a.12xlarge,192 GiB,EBS only,18750 Megabit,Linux,General Purpose,Linux,NA,No License required
+SK6UUHZGC5WZB29B.JRTCKXETXF.6YS6EN2CT7,0.2980000000,US East (Ohio),Memory optimized,4,r5b.xlarge,32 GiB,EBS only,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+UG3EA82E9XPT7JZA.JRTCKXETXF.6YS6EN2CT7,1.2355200000,US East (Ohio),Storage optimized,16,i4g.4xlarge,128 GiB,1 x 3750 SSD,Up to 25 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+UJ7SHZE7GZJ3XERM.JRTCKXETXF.6YS6EN2CT7,0.3430000000,US East (Ohio),Storage optimized,4,i4i.xlarge,32 GiB,1 x 937 NVMe SSD,Up to 10 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+R6GPP3DAS3SFJQEQ.JRTCKXETXF.6YS6EN2CT7,5.4240000000,US East (Ohio),Memory optimized,96,r5a.24xlarge,768 GiB,EBS only,20 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+R6TRJZCPZXG53G6B.JRTCKXETXF.6YS6EN2CT7,4.0960000000,US East (Ohio),GPU instance,64,g5.16xlarge,256 GiB,1 x 1900 GB NVMe SSD,25 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+QZ9RTRDR6FSDSDTU.JRTCKXETXF.6YS6EN2CT7,0.2880000000,US East (Ohio),Memory optimized,4,r5d.xlarge,32 GiB,1 x 150 NVMe SSD,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+U9DDYBRASS3PUUBA.JRTCKXETXF.6YS6EN2CT7,3.4272000000,US East (Ohio),Memory optimized,64,r7g.metal,512 GiB,EBS only,30 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+SGFUDXSZXY8TA5AX.JRTCKXETXF.6YS6EN2CT7,0.0094000000,US East (Ohio),General purpose,2,t3a.micro,1 GiB,EBS only,Up to 5 Gigabit,Linux,General Purpose,Linux,NA,No License required
+SH77K56M7WN6767K.JRTCKXETXF.6YS6EN2CT7,4.3520000000,US East (Ohio),General purpose,64,m5dn.16xlarge,256 GiB,4 x 600 NVMe SSD,75 Gigabit,Linux,General Purpose,Linux,NA,No License required
+QY7KUA5NSVSEM69M.JRTCKXETXF.6YS6EN2CT7,2.4640000000,US East (Ohio),General purpose,64,m6g.metal,256 GiB,EBS only,25 Gigabit,Linux,General Purpose,Linux,NA,No License required
+QPP4W9YVZSKJSZ4A.JRTCKXETXF.6YS6EN2CT7,4.5600000000,US East (Ohio),GPU instance,64,g3.16xlarge,488 GiB,EBS only,20 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+VHN7VM9WJTM4M4FD.JRTCKXETXF.6YS6EN2CT7,0.0864000000,US East (Ohio),General purpose,2,m6a.large,8 GiB,EBS only,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+QR3MVUCDBTTKBJK7.JRTCKXETXF.6YS6EN2CT7,0.3840000000,US East (Ohio),General purpose,8,m6i.2xlarge,32 GiB,EBS only,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+QSV5NB567ZHWS88Q.JRTCKXETXF.6YS6EN2CT7,1.6128000000,US East (Ohio),General purpose,32,m7i.8xlarge,128 GiB,EBS only,12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+VP2ZAWC24JKYZ8BU.JRTCKXETXF.6YS6EN2CT7,5.4240000000,US East (Ohio),Storage optimized,48,i3en.12xlarge,384 GiB,4 x 7500 NVMe SSD,50 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+PGZTA2K7HWXDAT8Z.JRTCKXETXF.6YS6EN2CT7,11.9040000000,US East (Ohio),Memory optimized,128,r7iz.metal-32xl,1024 GiB,EBS only,50000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+PRCCQJ3KS3C4GUDJ.JRTCKXETXF.6YS6EN2CT7,2.6720000000,US East (Ohio),Memory optimized,32,r5dn.8xlarge,256 GiB,2 x 600 NVMe SSD,25 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+J8NJKDGGFRSH7QUJ.JRTCKXETXF.6YS6EN2CT7,4.1180000000,US East (Ohio),Storage optimized,48,i4i.12xlarge,384 GiB,3 x 3750 NVMe SSD,28125 Megabit,Linux,Storage Optimized,Linux,NA,No License required
+JBG5HJPZ5JX78YQX.JRTCKXETXF.6YS6EN2CT7,0.8064000000,US East (Ohio),Compute optimized,16,c6id.4xlarge,32 GiB,1 x 950 NVMe SSD,Up to 12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+J27KHQAA9SF8KXQX.JRTCKXETXF.6YS6EN2CT7,3.2256000000,US East (Ohio),Memory optimized,64,r6g.metal,512 GiB,EBS only,25 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+J2ZBUDJCR33DTMTS.JRTCKXETXF.6YS6EN2CT7,3.3968000000,US East (Ohio),GPU instance,64,g6.16xlarge,256 GiB,2 x 940 GB NVMe SSD,25 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+J3ASENPUVKBMMQG3.JRTCKXETXF.6YS6EN2CT7,0.1560000000,US East (Ohio),Storage optimized,2,i3.large,15.25 GiB,1 x 475 NVMe SSD,Up to 10 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+JNBD8ZZ5JSFMNNYR.JRTCKXETXF.6YS6EN2CT7,0.0058000000,US East (Ohio),General purpose,1,t2.nano,0.5 GiB,EBS only,Low,Linux,General Purpose,Linux,NA,No License required
+JNDV9943X8PU79JA.JRTCKXETXF.6YS6EN2CT7,2.7120000000,US East (Ohio),Memory optimized,48,r5a.12xlarge,384 GiB,EBS only,10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+JNWAM59Z9WKF38K9.JRTCKXETXF.6YS6EN2CT7,1.9040000000,US East (Ohio),General purpose,32,m5n.8xlarge,128 GiB,EBS only,25 Gigabit,Linux,General Purpose,Linux,NA,No License required
+KEJS5UBANESEVV9E.JRTCKXETXF.6YS6EN2CT7,0.0385000000,US East (Ohio),General purpose,1,m6g.medium,4 GiB,EBS only,Up to 10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+KFXYGRFS6FWMA8DJ.JRTCKXETXF.6YS6EN2CT7,0.8568000000,US East (Ohio),Memory optimized,16,r7g.4xlarge,128 GiB,EBS only,Up to 15 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+GY4EP95U8PKCRZ58.JRTCKXETXF.6YS6EN2CT7,0.0832000000,US East (Ohio),General purpose,2,t3.large,8 GiB,EBS only,Up to 5 Gigabit,Linux,General Purpose,Linux,NA,No License required
+GZSHSGVERG8544YU.JRTCKXETXF.6YS6EN2CT7,0.2000000000,US East (Ohio),General purpose,4,m4.xlarge,16 GiB,EBS only,High,Linux,General Purpose,Linux,NA,No License required
+HA2HC3ANPEWUY7RW.JRTCKXETXF.6YS6EN2CT7,12.7008000000,US East (Ohio),Memory optimized,192,r7i.48xlarge,1536 GiB,EBS only,50000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+HACZM2ND2FQFX2VP.JRTCKXETXF.6YS6EN2CT7,0.3620000000,US East (Ohio),Machine Learning ASIC Instances,8,inf1.2xlarge,16 GiB,EBS only,Up to 25 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+H3E4D3MNQF6YVRF6.JRTCKXETXF.6YS6EN2CT7,2.4640000000,US East (Ohio),Compute optimized,64,c5a.16xlarge,128 GiB,EBS only,20 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+H5A46RATU7NWTET6.JRTCKXETXF.6YS6EN2CT7,0.1819000000,US East (Ohio),Storage optimized,2,im4gn.large,8 GiB,1 x 937 SSD,Up to 25 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+H4N4UC4S7UCK7GSH.JRTCKXETXF.6YS6EN2CT7,0.5960000000,US East (Ohio),Memory optimized,8,r5b.2xlarge,64 GiB,EBS only,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+H4ZG7UN963DEF9B2.JRTCKXETXF.6YS6EN2CT7,0.5960000000,US East (Ohio),Memory optimized,8,r5n.2xlarge,64 GiB,EBS only,Up to 25 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+H6PXPTQVXTJHZ3BG.JRTCKXETXF.6YS6EN2CT7,1.5321600000,US East (Ohio),General purpose,32,m7i-flex.8xlarge,128 GiB,EBS only,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+HD9KFFG57BPS6XA9.JRTCKXETXF.6YS6EN2CT7,4.1839200000,US East (Ohio),Memory optimized,48,r6in.12xlarge,384 GiB,EBS only,75000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+HE9M7G8GZPGU92WY.JRTCKXETXF.6YS6EN2CT7,0.0835000000,US East (Ohio),Memory optimized,1,x2gd.medium,16 GiB,1 x 59 SSD,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+HFDYWHDYN3ETFQY2.JRTCKXETXF.6YS6EN2CT7,1.6128000000,US East (Ohio),Memory optimized,32,r6g.8xlarge,256 GiB,EBS only,12 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+JCJT9ETR764XHRVY.JRTCKXETXF.6YS6EN2CT7,5.7120000000,US East (Ohio),General purpose,96,m5n.metal,384 GiB,EBS only,100 Gigabit,Linux,General Purpose,Linux,NA,No License required
+J8F5Q9BVHKTDD4YC.JRTCKXETXF.6YS6EN2CT7,0.0104000000,US East (Ohio),General purpose,2,t3.micro,1 GiB,EBS only,Up to 5 Gigabit,Linux,General Purpose,Linux,NA,No License required
+JEQ7UDSSY464PEWF.JRTCKXETXF.6YS6EN2CT7,2.3040000000,US East (Ohio),General purpose,48,m6i.12xlarge,192 GiB,EBS only,18750 Megabit,Linux,General Purpose,Linux,NA,No License required
+JFNS2WWC7D67NF9V.JRTCKXETXF.6YS6EN2CT7,4.6104000000,US East (Ohio),Storage optimized,32,is4gen.8xlarge,192 GiB,4 x 7500 SSD,50 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+J2Q4P3MW4SHJ8UU5.JRTCKXETXF.6YS6EN2CT7,0.9492000000,US East (Ohio),General purpose,16,m6id.4xlarge,64 GiB,1 x 950 NVMe SSD,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+J2U64VDM9T2PQM6K.JRTCKXETXF.6YS6EN2CT7,1.7280000000,US East (Ohio),Compute optimized,36,c5d.9xlarge,72 GiB,1 x 900 NVMe SSD,10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+J5JY2PJ3F8EP4BYY.JRTCKXETXF.6YS6EN2CT7,2.1760000000,US East (Ohio),Compute optimized,64,c6g.metal,128 GiB,EBS only,25 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+HZEP38M3298TZXMF.JRTCKXETXF.6YS6EN2CT7,4.6893600000,US East (Ohio),Memory optimized,48,r6idn.12xlarge,384 GiB,2 x 1425 NVMe SSD,75000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+HT6FKUHE3U3SHHMA.JRTCKXETXF.6YS6EN2CT7,0.2052800000,US East (Ohio),Compute optimized,4,c7a.xlarge,8 GiB,EBS only,Up to 12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+HTS9V26TJCMHM6PT.JRTCKXETXF.6YS6EN2CT7,7.1520000000,US East (Ohio),Memory optimized,96,r5n.24xlarge,768 GiB,EBS only,100 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+HUVYFYNYFBYD5E8A.JRTCKXETXF.6YS6EN2CT7,4.9267200000,US East (Ohio),Compute optimized,96,c7a.24xlarge,192 GiB,EBS only,37500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+GYVG6SH3UXKHGUJD.JRTCKXETXF.6YS6EN2CT7,9.6768000000,US East (Ohio),Memory optimized,128,r6id.32xlarge,1024 GiB,4 x 1900 NVMe SSD,50000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+J6F9NSBAQWA7NC8H.JRTCKXETXF.6YS6EN2CT7,0.2520000000,US East (Ohio),Memory optimized,4,r5.xlarge,32 GiB,EBS only,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+J6FHJ5W788GQPSCR.JRTCKXETXF.6YS6EN2CT7,12.2400000000,US East (Ohio),GPU instance,32,p3.8xlarge,244 GiB,EBS only,10 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+JZT64V9QPTR3BSMD.JRTCKXETXF.6YS6EN2CT7,0.1860000000,US East (Ohio),Memory optimized,2,r7iz.large,16 GiB,EBS only,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+JZW53PHAG7G84SGE.JRTCKXETXF.6YS6EN2CT7,8.1440000000,US East (Ohio),GPU instance,96,g5.24xlarge,384 GiB,1 x 3800 GB NVMe SSD,50 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+K3CQZUZRGKSJBPQT.JRTCKXETXF.6YS6EN2CT7,6.6690000000,US East (Ohio),Memory optimized,32,x2iedn.8xlarge,1024 GiB,1 x 950 NVMe SSD,25 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+JYK6AF7KP6ZCNYAB.JRTCKXETXF.6YS6EN2CT7,98.3200000000,US East (Ohio),GPU instance,192,p5.48xlarge,2048 GiB,8 x 3840 GB SSD,3200 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+K3Y5F2N8WVZ36GB2.JRTCKXETXF.6YS6EN2CT7,1.1400000000,US East (Ohio),GPU instance,16,g3.4xlarge,122 GiB,EBS only,Up to 10 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+K6BJWVVVK236W9NR.JRTCKXETXF.6YS6EN2CT7,0.1700000000,US East (Ohio),Compute optimized,4,c6i.xlarge,8 GiB,EBS only,Up to 12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+K9GYJE2SH9E2XVKT.JRTCKXETXF.6YS6EN2CT7,0.0452000000,US East (Ohio),General purpose,1,m6gd.medium,4 GiB,1 x 59 NVMe SSD,Up to 10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+K62547TQ4K76P2B4.JRTCKXETXF.6YS6EN2CT7,0.3440000000,US East (Ohio),Compute optimized,8,c5ad.2xlarge,16 GiB,1 x 300 NVMe SSD,Up to 10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+K93KAQNK2VPH463A.JRTCKXETXF.6YS6EN2CT7,2.2276800000,US East (Ohio),General purpose,32,m6in.8xlarge,128 GiB,EBS only,50000 Megabit,Linux,General Purpose,Linux,NA,No License required
+K9J99HMHVPUNX2CZ.JRTCKXETXF.6YS6EN2CT7,5.0918400000,US East (Ohio),General purpose,64,m6idn.16xlarge,256 GiB,2 x 1900 NVMe SSD,100000 Megabit,Linux,General Purpose,Linux,NA,No License required
+KAVVP92AUFQ8THXH.JRTCKXETXF.6YS6EN2CT7,2.1760000000,US East (Ohio),GPU instance,32,g4dn.8xlarge,128 GiB,900 GB NVMe SSD,50 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+JTMEBXHMXFMQ74R4.JRTCKXETXF.6YS6EN2CT7,3.4560000000,US East (Ohio),Compute optimized,72,c5d.18xlarge,144 GiB,2 x 900 NVMe SSD,25 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+JVT8Z9JR8H2KTMEY.JRTCKXETXF.6YS6EN2CT7,1.5910000000,US East (Ohio),Compute optimized,36,c4.8xlarge,60 GiB,EBS only,10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+JKKTABECTJYNNCD5.JRTCKXETXF.6YS6EN2CT7,0.3080000000,US East (Ohio),General purpose,8,m6g.2xlarge,32 GiB,EBS only,Up to 10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+U5RE6VS4BXZKF64F.JRTCKXETXF.6YS6EN2CT7,11.1283200000,US East (Ohio),General purpose,192,m7a.48xlarge,768 GiB,EBS only,50000 Megabit,Linux,General Purpose,Linux,NA,No License required
+U648PYA67ERD92PR.JRTCKXETXF.6YS6EN2CT7,0.7660800000,US East (Ohio),General purpose,16,m7i-flex.4xlarge,64 GiB,EBS only,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+PSFM9ME54RN3EV6P.JRTCKXETXF.6YS6EN2CT7,16.2880000000,US East (Ohio),GPU instance,192,g5.48xlarge,768 GiB,2 x 3800 GB NVMe SSD,100 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+QKR29D6VQ5FFMD2U.JRTCKXETXF.6YS6EN2CT7,0.1190000000,US East (Ohio),General purpose,2,m5n.large,8 GiB,EBS only,Up to 25 Gigabit,Linux,General Purpose,Linux,NA,No License required
+QVDGKAHRZKNRS5BV.JRTCKXETXF.6YS6EN2CT7,0.1920000000,US East (Ohio),General purpose,4,m5.xlarge,16 GiB,EBS only,Up to 10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+QVWV35UFJMZ9796F.JRTCKXETXF.6YS6EN2CT7,8.9107200000,US East (Ohio),General purpose,128,m6in.metal,512 GiB,EBS only,200000 Megabit,Linux,General Purpose,Linux,NA,No License required
+SKZA4VVNM258G9TZ.JRTCKXETXF.6YS6EN2CT7,3.2256000000,US East (Ohio),Compute optimized,64,c6id.16xlarge,128 GiB,2 x 1900 NVMe SSD,25000 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+SMRNWAVNJKJSN96J.JRTCKXETXF.6YS6EN2CT7,3.8080000000,US East (Ohio),General purpose,64,m5n.16xlarge,256 GiB,EBS only,75 Gigabit,Linux,General Purpose,Linux,NA,No License required
+P5CP3HJTXFE7M3VH.JRTCKXETXF.6YS6EN2CT7,8.9107200000,US East (Ohio),General purpose,128,m6in.32xlarge,512 GiB,EBS only,200000 Megabit,Linux,General Purpose,Linux,NA,No License required
+UERYMR24GXXPDY92.JRTCKXETXF.6YS6EN2CT7,0.1720000000,US East (Ohio),Storage optimized,2,i4i.large,16 GiB,1 x 468 NVMe SSD,Up to 10 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+UEXH7Q44PXFHUZKW.JRTCKXETXF.6YS6EN2CT7,1.1920000000,US East (Ohio),Memory optimized,16,r5b.4xlarge,128 GiB,EBS only,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+P6RVWT6TBTYBANPY.JRTCKXETXF.6YS6EN2CT7,1.1160000000,US East (Ohio),Memory optimized,12,z1d.3xlarge,96 GiB,1 x 450 NVMe SSD,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+UGX5BTRKK2SBX5R5.JRTCKXETXF.6YS6EN2CT7,0.0361000000,US East (Ohio),Compute optimized,1,c7g.medium,2 GiB,EBS only,Up to 12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+R4WCHYMB84366KD7.JRTCKXETXF.6YS6EN2CT7,0.9520000000,US East (Ohio),General purpose,16,m5n.4xlarge,64 GiB,EBS only,Up to 25 Gigabit,Linux,General Purpose,Linux,NA,No License required
+SRW9NUWV4DEUS28K.JRTCKXETXF.6YS6EN2CT7,0.2016000000,US East (Ohio),Memory optimized,4,r6g.xlarge,32 GiB,EBS only,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+R99FC88U7735H9RR.JRTCKXETXF.6YS6EN2CT7,0.1990000000,US East (Ohio),Compute optimized,4,c4.xlarge,7.5 GiB,EBS only,High,Linux,Compute Optimized,Linux,NA,No License required
+SG7H3YKVF2FX5SGV.JRTCKXETXF.6YS6EN2CT7,2.1773000000,US East (Ohio),Compute optimized,48,c7gd.12xlarge,96 GiB,2 x 1425 NVMe SSD,22500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+R3VHSB87F9T6FGA9.JRTCKXETXF.6YS6EN2CT7,1.8080000000,US East (Ohio),General purpose,32,m5d.8xlarge,128 GiB,2 x 600 NVMe SSD,10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+R4CKBWU7M6GSC7QB.JRTCKXETXF.6YS6EN2CT7,0.5320000000,US East (Ohio),Memory optimized,8,r4.2xlarge,61 GiB,EBS only,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+VX6Z38JUR65B3HGT.JRTCKXETXF.6YS6EN2CT7,6.6830400000,US East (Ohio),General purpose,96,m6in.24xlarge,384 GiB,EBS only,150000 Megabit,Linux,General Purpose,Linux,NA,No License required
+QNTQ3PQTYPNBFM62.JRTCKXETXF.6YS6EN2CT7,4.2840000000,US East (Ohio),Compute optimized,96,c7i.24xlarge,192 GiB,EBS only,37500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+VJWEQV54Q7YQWH8T.JRTCKXETXF.6YS6EN2CT7,0.1808000000,US East (Ohio),General purpose,4,m6gd.xlarge,16 GiB,1 x 237 NVMe SSD,Up to 10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+QSENSNKG2TFF9DX2.JRTCKXETXF.6YS6EN2CT7,2.4633600000,US East (Ohio),Compute optimized,48,c7a.12xlarge,96 GiB,EBS only,18750 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+QTD83ZUBGATX8ZGE.JRTCKXETXF.6YS6EN2CT7,0.1540000000,US East (Ohio),Compute optimized,4,c5a.xlarge,8 GiB,EBS only,Up to 10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+QTZ3A8UPGDGVVKEN.JRTCKXETXF.6YS6EN2CT7,0.4536000000,US East (Ohio),Memory optimized,8,r6a.2xlarge,64 GiB,EBS only,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+PHYTCURRR8TV4RZQ.JRTCKXETXF.6YS6EN2CT7,4.8688000000,US East (Ohio),Memory optimized,64,r7a.16xlarge,512 GiB,EBS only,25000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+VRGEJRAPUVFERPF4.JRTCKXETXF.6YS6EN2CT7,2.0640000000,US East (Ohio),Compute optimized,48,c5ad.12xlarge,96 GiB,2 x 900 NVMe SSD,12 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+PR9DBPYPCCHY7FU5.JRTCKXETXF.6YS6EN2CT7,2.1760000000,US East (Ohio),General purpose,32,m5dn.8xlarge,128 GiB,2 x 600 NVMe SSD,25 Gigabit,Linux,General Purpose,Linux,NA,No License required
+BB59KC4ADC7VPB22.JRTCKXETXF.6YS6EN2CT7,1.9968000000,US East (Ohio),Compute optimized,32,c7gn.8xlarge,64 GiB,EBS only,100 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+BAW6PD4AUCRJNUUR.JRTCKXETXF.6YS6EN2CT7,0.3400000000,US East (Ohio),Compute optimized,8,c6i.2xlarge,16 GiB,EBS only,Up to 12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+B4AFFRRA4JF62CT3.JRTCKXETXF.6YS6EN2CT7,14.6064000000,US East (Ohio),Memory optimized,192,r7a.metal-48xl,1536 GiB,EBS only,50000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+B8SHJ47CBBHMQK5N.JRTCKXETXF.6YS6EN2CT7,0.0513200000,US East (Ohio),Compute optimized,1,c7a.medium,2 GiB,EBS only,Up to 12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+B9QJCD97ZQ34V6EA.JRTCKXETXF.6YS6EN2CT7,0.7680000000,US East (Ohio),Compute optimized,16,c5d.4xlarge,32 GiB,1 x 400 NVMe SSD,Up to 10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+B7KJQVXZZNDAS23N.JRTCKXETXF.6YS6EN2CT7,0.0928000000,US East (Ohio),General purpose,2,t2.large,8 GiB,EBS only,Low to Moderate,Linux,General Purpose,Linux,NA,No License required
+B9PXT9SFSA4K33SU.JRTCKXETXF.6YS6EN2CT7,6.5280000000,US East (Ohio),General purpose,96,m5dn.metal,384 GiB,4 x 900 NVMe SSD,100 Gigabit,Linux,General Purpose,Linux,NA,No License required
+B2UVD73SKGHVN763.JRTCKXETXF.6YS6EN2CT7,0.9984000000,US East (Ohio),Compute optimized,16,c7gn.4xlarge,32 GiB,EBS only,50 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+B3W94M5ZUQMSMU6U.JRTCKXETXF.6YS6EN2CT7,4.7680000000,US East (Ohio),Memory optimized,64,r5n.16xlarge,512 GiB,EBS only,75 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+BQPEB7HYTVEZPKJW.JRTCKXETXF.6YS6EN2CT7,0.0208000000,US East (Ohio),General purpose,2,t3.small,2 GiB,EBS only,Up to 5 Gigabit,Linux,General Purpose,Linux,NA,No License required
+BQZZZARYEWGN3XUG.JRTCKXETXF.6YS6EN2CT7,7.2576000000,US East (Ohio),Compute optimized,128,c6in.32xlarge,256 GiB,EBS only,200000 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+9G747UYR728ANFYQ.JRTCKXETXF.6YS6EN2CT7,0.6912000000,US East (Ohio),Compute optimized,16,c6gn.4xlarge,32 GiB,EBS only,25 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+VU6WDT5USNCYBZEU.JRTCKXETXF.6YS6EN2CT7,0.3712000000,US East (Ohio),General purpose,8,t2.2xlarge,32 GiB,EBS only,Moderate,Linux,General Purpose,Linux,NA,No License required
+V8UQSCFD4MRKTGJK.JRTCKXETXF.6YS6EN2CT7,2.3123000000,US East (Ohio),Compute optimized,64,c7g.metal,128 GiB,EBS only,30 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+VA2B5JZB8WHEURXY.JRTCKXETXF.6YS6EN2CT7,0.5411700000,US East (Ohio),GPU instance,8,g4ad.2xlarge,32 GiB,300 GB NVMe SSD,Up to 10 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+VAF5V29J5BPBHMB6.JRTCKXETXF.6YS6EN2CT7,1.6422400000,US East (Ohio),Compute optimized,32,c7a.8xlarge,64 GiB,EBS only,12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+VEVCBWPER9F5N296.JRTCKXETXF.6YS6EN2CT7,1.9440000000,US East (Ohio),Compute optimized,36,c5n.9xlarge,96 GiB,EBS only,50 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+PVCJ44B9HU2FJ3R5.JRTCKXETXF.6YS6EN2CT7,0.4992000000,US East (Ohio),Compute optimized,8,c7gn.2xlarge,16 GiB,EBS only,Up to 50 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+PX7G4QXPTQXB4CP6.JRTCKXETXF.6YS6EN2CT7,1.1138400000,US East (Ohio),General purpose,16,m6in.4xlarge,64 GiB,EBS only,Up to 50000 Megabit,Linux,General Purpose,Linux,NA,No License required
+VBD8SNSQFMPFYVCB.JRTCKXETXF.6YS6EN2CT7,0.4636800000,US East (Ohio),General purpose,8,m7a.2xlarge,32 GiB,EBS only,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+VDVDBUJMSHBKQQ2J.JRTCKXETXF.6YS6EN2CT7,0.2646000000,US East (Ohio),Memory optimized,4,r7i.xlarge,32 GiB,EBS only,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+PJCXU4V4TYC9FV5D.JRTCKXETXF.6YS6EN2CT7,1.4280000000,US East (Ohio),Compute optimized,32,c7i.8xlarge,64 GiB,EBS only,12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+VFKY8MVR6SMC2UK2.JRTCKXETXF.6YS6EN2CT7,1.3360000000,US East (Ohio),Memory optimized,16,x2gd.4xlarge,256 GiB,1 x 950 SSD,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+URNH6CVVQNBUBHKN.JRTCKXETXF.6YS6EN2CT7,1.2040000000,US East (Ohio),GPU instance,16,g4dn.4xlarge,64 GiB,225 GB NVMe SSD,Up to 25 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+HKSDXF2TWQ59M4GV.JRTCKXETXF.6YS6EN2CT7,1.8432000000,US East (Ohio),Memory optimized,32,r6gd.8xlarge,256 GiB,1 x 1900 NVMe SSD,12 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+7YDWA7NKU6XSKFSU.JRTCKXETXF.6YS6EN2CT7,0.2060000000,US East (Ohio),General purpose,4,m5ad.xlarge,16 GiB,1 x 150 NVMe SSD,Up to 10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+82N8PRZ8U7GE8XRM.JRTCKXETXF.6YS6EN2CT7,2.4960000000,US East (Ohio),Storage optimized,32,i3.8xlarge,244 GiB,4 x 1900 NVMe SSD,10 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+82WJEV73M7J3Q5WS.JRTCKXETXF.6YS6EN2CT7,4.0320000000,US East (Ohio),Memory optimized,64,r5.16xlarge,512 GiB,EBS only,20 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+8GJ9CJRBQQWJTNRN.JRTCKXETXF.6YS6EN2CT7,10.8480000000,US East (Ohio),Storage optimized,96,i3en.metal,768 GiB,8 x 7500 NVMe SSD,100 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+8HUH2DUJYZKMN44U.JRTCKXETXF.6YS6EN2CT7,0.6973200000,US East (Ohio),Memory optimized,8,r6in.2xlarge,64 GiB,EBS only,Up to 40000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+8KPHN9W8MUAFV3XN.JRTCKXETXF.6YS6EN2CT7,0.4284000000,US East (Ohio),Memory optimized,8,r7g.2xlarge,64 GiB,EBS only,Up to 15 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+8KUY3ZV7F3CFSGFG.JRTCKXETXF.6YS6EN2CT7,0.2280000000,US East (Ohio),Machine Learning ASIC Instances,4,inf1.xlarge,8 GiB,EBS only,Up to 25 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+8GK4KCC5UY3FM5FX.JRTCKXETXF.6YS6EN2CT7,6.9120000000,US East (Ohio),Memory optimized,96,r5d.24xlarge,768 GiB,4 x 900 NVMe SSD,25 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+8MUE5GW7RQ939SBD.JRTCKXETXF.6YS6EN2CT7,3.6160000000,US East (Ohio),General purpose,64,m5d.16xlarge,256 GiB,4 x 600 NVMe SSD,20 Gigabit,Linux,General Purpose,Linux,NA,No License required
+8JR98FCS7C5AC4VZ.JRTCKXETXF.6YS6EN2CT7,0.1360000000,US East (Ohio),General purpose,2,m5dn.large,8 GiB,1 x 75 NVMe SSD,Up to 25 Gigabit,Linux,General Purpose,Linux,NA,No License required
+8KXQBUFQSAE2569F.JRTCKXETXF.6YS6EN2CT7,4.9440000000,US East (Ohio),General purpose,96,m5ad.24xlarge,384 GiB,4 x 900 NVMe SSD,20 Gigabit,Linux,General Purpose,Linux,NA,No License required
+85GRNC4JJKS8KAPZ.JRTCKXETXF.6YS6EN2CT7,10.1836800000,US East (Ohio),General purpose,128,m6idn.metal,512 GiB,4 x 1900 NVMe SSD,200000 Megabit,Linux,General Purpose,Linux,NA,No License required
+87GUC2RJ3Y9NTE96.JRTCKXETXF.6YS6EN2CT7,4.4640000000,US East (Ohio),Memory optimized,48,z1d.12xlarge,384 GiB,2 x 900 NVMe SSD,25 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+8859G66VWG9CR4BR.JRTCKXETXF.6YS6EN2CT7,4.3546000000,US East (Ohio),Memory optimized,64,r7gd.16xlarge,512 GiB,2 x 1900 NVMe SSD,30 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+87VPS2DRVVDV355S.JRTCKXETXF.6YS6EN2CT7,0.8064000000,US East (Ohio),Memory optimized,16,r6g.4xlarge,128 GiB,EBS only,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+88H8KNDPXNRCEBAU.JRTCKXETXF.6YS6EN2CT7,3.8880000000,US East (Ohio),Compute optimized,72,c5n.18xlarge,192 GiB,EBS only,100 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+8EKJAJ4QY6KN7PVJ.JRTCKXETXF.6YS6EN2CT7,0.0904000000,US East (Ohio),General purpose,2,m6gd.large,8 GiB,1 x 118 NVMe SSD,Up to 10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+8ESS9QXCJT48TMPH.JRTCKXETXF.6YS6EN2CT7,0.6860000000,US East (Ohio),Storage optimized,8,i4i.2xlarge,64 GiB,1 x 1875 NVMe SSD,Up to 12 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+8ETBXSF8EMYHZQHA.JRTCKXETXF.6YS6EN2CT7,0.0765000000,US East (Ohio),Compute optimized,2,c6a.large,4 GiB,EBS only,Up to 12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+8CCCNAQ4R5QGYJFP.JRTCKXETXF.6YS6EN2CT7,109.2000000000,US East (Ohio),Memory optimized,448,u-12tb1.112xlarge,12288 GiB,EBS only,100 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+8D49XP354UEYTHGM.JRTCKXETXF.6YS6EN2CT7,0.0960000000,US East (Ohio),General purpose,2,m5.large,8 GiB,EBS only,Up to 10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+8C5QTNM25J8QE7WW.JRTCKXETXF.6YS6EN2CT7,2.7820800000,US East (Ohio),General purpose,48,m7a.12xlarge,192 GiB,EBS only,18750 Megabit,Linux,General Purpose,Linux,NA,No License required
+8SJJWBQEQ55NTABM.JRTCKXETXF.6YS6EN2CT7,3.0600000000,US East (Ohio),Compute optimized,72,c5.18xlarge,144 GiB,EBS only,25 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+8PT295FGK5BA7XPK.JRTCKXETXF.6YS6EN2CT7,4.1920000000,US East (Ohio),Memory optimized,64,r5ad.16xlarge,512 GiB,4 x 600 NVMe SSD,12 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+8PYPZ2JQ8PGB57UQ.JRTCKXETXF.6YS6EN2CT7,0.6086000000,US East (Ohio),Memory optimized,8,r7a.2xlarge,64 GiB,EBS only,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+8QZ4X4NNZ4TY7FET.JRTCKXETXF.6YS6EN2CT7,4.8384000000,US East (Ohio),General purpose,96,m7i.24xlarge,384 GiB,EBS only,37500 Megabit,Linux,General Purpose,Linux,NA,No License required
+8X9B68EH66TVHPDD.JRTCKXETXF.6YS6EN2CT7,1.5360000000,US East (Ohio),General purpose,32,m5.8xlarge,128 GiB,EBS only,10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+5X7VYJGK3PY7WUAN.JRTCKXETXF.6YS6EN2CT7,0.2260000000,US East (Ohio),Storage optimized,2,i3en.large,16 GiB,1 x 1250 NVMe SSD,Up to 25 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+8VCFHRSGSGNU4KUP.JRTCKXETXF.6YS6EN2CT7,7.1520000000,US East (Ohio),Memory optimized,96,r5b.metal,768 GiB,EBS only,25 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+5AN96378Q97PAQKS.JRTCKXETXF.6YS6EN2CT7,4.0800000000,US East (Ohio),Compute optimized,96,c5.24xlarge,192 GiB,EBS only,25 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+762QJ5UWC2MTDEYB.JRTCKXETXF.6YS6EN2CT7,0.1860000000,US East (Ohio),Memory optimized,2,z1d.large,16 GiB,1 x 75 NVMe SSD,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+7DSWD9TUGHZ9KJB4.JRTCKXETXF.6YS6EN2CT7,1.0060000000,US East (Ohio),GPU instance,4,g5.xlarge,16 GiB,1 x 250 GB NVMe SSD,Up to 10 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+5G4M46QWK9ZC9QDT.JRTCKXETXF.6YS6EN2CT7,0.1856000000,US East (Ohio),General purpose,4,t2.xlarge,16 GiB,EBS only,Moderate,Linux,General Purpose,Linux,NA,No License required
+5J6H3KYBDMQ87KDK.JRTCKXETXF.6YS6EN2CT7,0.7520000000,US East (Ohio),GPU instance,8,g4dn.2xlarge,32 GiB,225 GB NVMe SSD,Up to 25 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+56SAYZTJAH8MHKUF.JRTCKXETXF.6YS6EN2CT7,10.8864000000,US East (Ohio),Memory optimized,192,r6a.48xlarge,1536 GiB,EBS only,50000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+7FSXBGEAS2KZ7E5V.JRTCKXETXF.6YS6EN2CT7,3.2960000000,US East (Ohio),General purpose,64,m5ad.16xlarge,256 GiB,4 x 600 NVMe SSD,12 Gigabit,Linux,General Purpose,Linux,NA,No License required
+55JEV4D47GQZ5YBD.JRTCKXETXF.6YS6EN2CT7,0.4032000000,US East (Ohio),Compute optimized,8,c6id.2xlarge,16 GiB,1 x 474 NVMe SSD,Up to 12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+5KJU7G42EKAGH3H4.JRTCKXETXF.6YS6EN2CT7,0.0376000000,US East (Ohio),General purpose,2,t3a.medium,4 GiB,EBS only,Up to 5 Gigabit,Linux,General Purpose,Linux,NA,No License required
+4R9AAXWRV88MGH2M.JRTCKXETXF.6YS6EN2CT7,0.4320000000,US East (Ohio),Compute optimized,8,c5n.2xlarge,21 GiB,EBS only,Up to 25 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+7DZPFDJE9NFYEDSA.JRTCKXETXF.6YS6EN2CT7,4.3520000000,US East (Ohio),GPU instance,64,g4dn.16xlarge,256 GiB,900 GB NVMe SSD,50 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+4PHUA4GN3H4Q64M6.JRTCKXETXF.6YS6EN2CT7,1.3360000000,US East (Ohio),Memory optimized,16,r5dn.4xlarge,128 GiB,2 x 300 NVMe SSD,Up to 25 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+7X5D89VVMXG2JZ42.JRTCKXETXF.6YS6EN2CT7,2.4640000000,US East (Ohio),General purpose,64,m6g.16xlarge,256 GiB,EBS only,25 Gigabit,Linux,General Purpose,Linux,NA,No License required
+83N2WX5GTM44UPK9.JRTCKXETXF.6YS6EN2CT7,0.5260000000,US East (Ohio),GPU instance,4,g4dn.xlarge,16 GiB,125 GB NVMe SSD,Up to 25 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+4YEWPWQGW7RUAV57.JRTCKXETXF.6YS6EN2CT7,2.6112000000,US East (Ohio),General purpose,64,m7g.16xlarge,256 GiB,EBS only,30 Gigabit,Linux,General Purpose,Linux,NA,No License required
+4Z2D6C5WPKJP9NVM.JRTCKXETXF.6YS6EN2CT7,0.2688000000,US East (Ohio),General purpose,8,t4g.2xlarge,32 GiB,EBS only,Up to 5 Gigabit,Linux,General Purpose,Linux,NA,No License required
+84VYQC8KRPWCNR4U.JRTCKXETXF.6YS6EN2CT7,0.4032000000,US East (Ohio),General purpose,8,m7i.2xlarge,32 GiB,EBS only,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+52YMJWU8NDHMWAVV.JRTCKXETXF.6YS6EN2CT7,8.0160000000,US East (Ohio),Memory optimized,96,r5dn.metal,768 GiB,4 x 900 NVMe SSD,100 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+84WG248SMZNAAGN7.JRTCKXETXF.6YS6EN2CT7,0.5440000000,US East (Ohio),General purpose,8,m5dn.2xlarge,32 GiB,1 x 300 NVMe SSD,Up to 25 Gigabit,Linux,General Purpose,Linux,NA,No License required
+53MJDW7C24CEJF98.JRTCKXETXF.6YS6EN2CT7,5.9520000000,US East (Ohio),Memory optimized,64,r7iz.metal-16xl,512 GiB,EBS only,25000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+6A8DNG8MWDXC7U23.JRTCKXETXF.6YS6EN2CT7,0.2016000000,US East (Ohio),General purpose,4,m7i.xlarge,16 GiB,EBS only,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+99AFTA7JUWU9TSFK.JRTCKXETXF.6YS6EN2CT7,0.2720000000,US East (Ohio),General purpose,4,m5dn.xlarge,16 GiB,1 x 150 NVMe SSD,Up to 25 Gigabit,Linux,General Purpose,Linux,NA,No License required
+6BFDGGDTV83T6WDG.JRTCKXETXF.6YS6EN2CT7,4.8384000000,US East (Ohio),General purpose,96,m7i.metal-24xl,384 GiB,EBS only,37500 Megabit,Linux,General Purpose,Linux,NA,No License required
+6AE6GQ48BER2WHT6.JRTCKXETXF.6YS6EN2CT7,0.1512000000,US East (Ohio),Memory optimized,2,r6id.large,16 GiB,1 x 118 NVMe SSD,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+6C86S5B7DBGXX4D6.JRTCKXETXF.6YS6EN2CT7,8.5680000000,US East (Ohio),Compute optimized,192,c7i.48xlarge,384 GiB,EBS only,50000 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+9FSPCM7DXJXHRZ8V.JRTCKXETXF.6YS6EN2CT7,6.6720000000,US East (Ohio),Memory optimized,32,x1e.8xlarge,976 GiB,1 x 960 SSD,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+67TZ2FJNUK7KJEEC.JRTCKXETXF.6YS6EN2CT7,1.0480000000,US East (Ohio),Memory optimized,16,r5ad.4xlarge,128 GiB,2 x 300 NVMe SSD,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+6GXMKNDDUHJ76C44.JRTCKXETXF.6YS6EN2CT7,0.0432000000,US East (Ohio),Compute optimized,1,c6gn.medium,2 GiB,EBS only,Up to 25 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+94CW6DV7W2B5VV78.JRTCKXETXF.6YS6EN2CT7,0.2136000000,US East (Ohio),General purpose,4,m7gd.xlarge,16 GiB,1 x 237 NVMe SSD,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+94WSUX7ND6EM4YNA.JRTCKXETXF.6YS6EN2CT7,4.1280000000,US East (Ohio),General purpose,96,m5a.24xlarge,384 GiB,EBS only,20 Gigabit,Linux,General Purpose,Linux,NA,No License required
+6FB9Y523477E26Y5.JRTCKXETXF.6YS6EN2CT7,0.9990000000,US East (Ohio),Storage optimized,8,d3.2xlarge,64 GiB,6 x 2000 HDD,Up to 15 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+4HGTTE28P6Q6Z5CH.JRTCKXETXF.6YS6EN2CT7,0.1700000000,US East (Ohio),Compute optimized,4,c5.xlarge,8 GiB,EBS only,Up to 10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+6PAMXJGG38VEFCRR.JRTCKXETXF.6YS6EN2CT7,1.0886000000,US East (Ohio),Memory optimized,16,r7gd.4xlarge,128 GiB,1 x 950 NVMe SSD,Up to 15 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+7P2YNCQ6H3U2X5QF.JRTCKXETXF.6YS6EN2CT7,3.5760000000,US East (Ohio),Memory optimized,48,r5b.12xlarge,384 GiB,EBS only,10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+6UUCC3WX7F3X6FV8.JRTCKXETXF.6YS6EN2CT7,1.1800000000,US East (Ohio),Machine Learning ASIC Instances,24,inf1.6xlarge,48 GiB,EBS only,25 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+7KSPHVYN4VZNK8FD.JRTCKXETXF.6YS6EN2CT7,2.4464000000,US East (Ohio),GPU instance,32,gr6.8xlarge,256 GiB,2 x 450 GB NVMe SSD,25 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+6UZT6S4TARUV38SZ.JRTCKXETXF.6YS6EN2CT7,0.0504000000,US East (Ohio),Memory optimized,1,r6g.medium,8 GiB,EBS only,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+7KZQJPJ9DMP9TKHT.JRTCKXETXF.6YS6EN2CT7,0.1920000000,US East (Ohio),Compute optimized,4,c5d.xlarge,8 GiB,1 x 100 NVMe SSD,Up to 10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+72N74AKYBADXSG5S.JRTCKXETXF.6YS6EN2CT7,0.3570000000,US East (Ohio),Compute optimized,8,c7i.2xlarge,16 GiB,EBS only,Up to 12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+7NNK7ZC4ND2AXRXU.JRTCKXETXF.6YS6EN2CT7,0.3400000000,US East (Ohio),Compute optimized,8,c5.2xlarge,16 GiB,EBS only,Up to 10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+7QFCQ9FT3U8GW6HM.JRTCKXETXF.6YS6EN2CT7,0.0850000000,US East (Ohio),Compute optimized,2,c6i.large,4 GiB,EBS only,Up to 12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+5HZRWJ67NRH9FRHM.JRTCKXETXF.6YS6EN2CT7,0.4120000000,US East (Ohio),General purpose,8,m5ad.2xlarge,32 GiB,1 x 300 NVMe SSD,Up to 10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+7EKAJXB2REA57RPS.JRTCKXETXF.6YS6EN2CT7,0.0536000000,US East (Ohio),Memory optimized,1,r7g.medium,8 GiB,EBS only,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+5TCXMQWFMVC6VQEE.JRTCKXETXF.6YS6EN2CT7,2.8928000000,US East (Ohio),General purpose,64,m6gd.16xlarge,256 GiB,2 x 1900 NVMe SSD,25 Gigabit,Linux,General Purpose,Linux,NA,No License required
+5S6FV4VGE8UW9QJW.JRTCKXETXF.6YS6EN2CT7,3.3360000000,US East (Ohio),Memory optimized,16,x1e.4xlarge,488 GiB,1 x 480 SSD,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+7G6ZHQDD8B55YKHH.JRTCKXETXF.6YS6EN2CT7,4.6080000000,US East (Ohio),General purpose,96,m5.24xlarge,384 GiB,EBS only,25 Gigabit,Linux,General Purpose,Linux,NA,No License required
+7K2CQQJ9ANBHC4RG.JRTCKXETXF.6YS6EN2CT7,3.6288000000,US East (Ohio),Memory optimized,64,r6a.16xlarge,512 GiB,EBS only,25000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+7RZP9B4NBY9F3EK7.JRTCKXETXF.6YS6EN2CT7,0.4105600000,US East (Ohio),Compute optimized,8,c7a.2xlarge,16 GiB,EBS only,Up to 12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+654M955HUWUBFBDB.JRTCKXETXF.6YS6EN2CT7,0.5240000000,US East (Ohio),Memory optimized,8,r5ad.2xlarge,64 GiB,1 x 300 NVMe SSD,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+65E5MEGFCDNURBJJ.JRTCKXETXF.6YS6EN2CT7,7.1520000000,US East (Ohio),Memory optimized,96,r5n.metal,768 GiB,EBS only,100 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+64GUQQXHY5Y25RSN.JRTCKXETXF.6YS6EN2CT7,0.3907800000,US East (Ohio),Memory optimized,4,r6idn.xlarge,32 GiB,1 x 237 NVMe SSD,Up to 30000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+EGWTJQTFVGAY5STC.JRTCKXETXF.6YS6EN2CT7,3.9955200000,US East (Ohio),Storage optimized,32,d3.8xlarge,256 GiB,24 x 2000 HDD,25 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+EHW72QF7CPPJRPF9.JRTCKXETXF.6YS6EN2CT7,4.1472000000,US East (Ohio),General purpose,96,m6a.24xlarge,384 GiB,EBS only,37500 Megabit,Linux,General Purpose,Linux,NA,No License required
+EHXY2FDRBX9SBHMU.JRTCKXETXF.6YS6EN2CT7,0.3440000000,US East (Ohio),General purpose,8,m5a.2xlarge,32 GiB,EBS only,Up to 10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+EEA3QYSYDETB8EQM.JRTCKXETXF.6YS6EN2CT7,4.3546000000,US East (Ohio),Memory optimized,64,r7gd.metal,512 GiB,2 x 1900 NVMe SSD,30 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+EED27S48BR48WD8R.JRTCKXETXF.6YS6EN2CT7,4.4553600000,US East (Ohio),General purpose,64,m6in.16xlarge,256 GiB,EBS only,100000 Megabit,Linux,General Purpose,Linux,NA,No License required
+C27E7SSHH5KKMT99.JRTCKXETXF.6YS6EN2CT7,1.2288000000,US East (Ohio),Compute optimized,32,c6gd.8xlarge,64 GiB,1 x 1900 NVMe SSD,12 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+C6SRSCBJJS6WE8T7.JRTCKXETXF.6YS6EN2CT7,3.0240000000,US East (Ohio),Memory optimized,48,r6i.12xlarge,384 GiB,EBS only,18750 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+C55YKQ7XASSPNKZV.JRTCKXETXF.6YS6EN2CT7,2.9103400000,US East (Ohio),Storage optimized,32,im4gn.8xlarge,128 GiB,2 x 7500 SSD,50 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+C3DAVGCJ23S9ZM8Q.JRTCKXETXF.6YS6EN2CT7,0.5440000000,US East (Ohio),Compute optimized,16,c6g.4xlarge,32 GiB,EBS only,Up to 10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+C38D7U8Z77DHFQF9.JRTCKXETXF.6YS6EN2CT7,7.5936000000,US East (Ohio),General purpose,128,m6id.32xlarge,512 GiB,4 x 1900 NVMe SSD,50000 Megabit,Linux,General Purpose,Linux,NA,No License required
+F9GPUA3E29X6GJVE.JRTCKXETXF.6YS6EN2CT7,0.0116000000,US East (Ohio),General purpose,1,t2.micro,1 GiB,EBS only,Low to Moderate,Linux,General Purpose,Linux,NA,No License required
+CPTG6F2DF7QJZ8PE.JRTCKXETXF.6YS6EN2CT7,0.2304000000,US East (Ohio),Memory optimized,4,r6gd.xlarge,32 GiB,1 x 237 NVMe SSD,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+FDAHGQ2MH4GVANRN.JRTCKXETXF.6YS6EN2CT7,6.4512000000,US East (Ohio),Compute optimized,128,c6id.metal,256 GiB,4 x 1900 NVMe SSD,50000 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+FNBCSQR7MUGNZQSH.JRTCKXETXF.6YS6EN2CT7,0.3456000000,US East (Ohio),Compute optimized,8,c6gn.2xlarge,16 GiB,EBS only,Up to 25 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+D7F64YVUZ6D5BUKC.JRTCKXETXF.6YS6EN2CT7,1.7086000000,US East (Ohio),General purpose,32,m7gd.8xlarge,128 GiB,1 x 1900 NVMe SSD,15 Gigabit,Linux,General Purpose,Linux,NA,No License required
+D5QS239TRWNTY6KV.JRTCKXETXF.6YS6EN2CT7,0.2268000000,US East (Ohio),Memory optimized,4,r6a.xlarge,32 GiB,EBS only,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+D7BBVAYMDQUQX9RZ.JRTCKXETXF.6YS6EN2CT7,0.1814000000,US East (Ohio),Compute optimized,4,c7gd.xlarge,8 GiB,1 x 237 NVMe SSD,Up to 12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+FG7V5XKV2PXHNKGX.JRTCKXETXF.6YS6EN2CT7,0.1490000000,US East (Ohio),Memory optimized,2,r5n.large,16 GiB,EBS only,Up to 25 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+D4NUSS37ZFG8846A.JRTCKXETXF.6YS6EN2CT7,0.6800000000,US East (Ohio),Compute optimized,16,c6i.4xlarge,32 GiB,EBS only,Up to 12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+D3SXP8R2R6JKXZTR.JRTCKXETXF.6YS6EN2CT7,0.3830400000,US East (Ohio),General purpose,8,m7i-flex.2xlarge,32 GiB,EBS only,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+D33HYAX2BQB4FH9A.JRTCKXETXF.6YS6EN2CT7,6.5689600000,US East (Ohio),Compute optimized,128,c7a.32xlarge,256 GiB,EBS only,50000 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+G3K35SU8Y96XCQPJ.JRTCKXETXF.6YS6EN2CT7,0.0084000000,US East (Ohio),General purpose,2,t4g.micro,1 GiB,EBS only,Up to 5 Gigabit,Linux,General Purpose,Linux,NA,No License required
+AHTW7B2WQSWYM7SW.JRTCKXETXF.6YS6EN2CT7,0.0760800000,US East (Ohio),Memory optimized,1,r7a.medium,8 GiB,EBS only,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+CN3GYFP6WAMZAFSD.JRTCKXETXF.6YS6EN2CT7,7.2000000000,US East (Ohio),Compute optimized,96,hpc7a.48xlarge,768 GiB,EBS only,300 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+ARA3692KFAJ39EUX.JRTCKXETXF.6YS6EN2CT7,0.2160000000,US East (Ohio),Compute optimized,4,c5n.xlarge,10.5 GiB,EBS only,Up to 25 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+ANKQJK29HWAX7AW8.JRTCKXETXF.6YS6EN2CT7,10.8480000000,US East (Ohio),Storage optimized,96,i3en.24xlarge,768 GiB,8 x 7500 NVMe SSD,100 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+DBBN8V6AE5WQCCGZ.JRTCKXETXF.6YS6EN2CT7,0.3120000000,US East (Ohio),Storage optimized,4,i3.xlarge,30.5 GiB,1 x 950 NVMe SSD,Up to 10 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+FZDVDEZY8GVNHTEG.JRTCKXETXF.6YS6EN2CT7,0.4990000000,US East (Ohio),Storage optimized,4,d3.xlarge,32 GiB,3 x 2000 HDD,Up to 15 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+FR8BQ49DN9U32H8Q.JRTCKXETXF.6YS6EN2CT7,3.0720000000,US East (Ohio),General purpose,64,m5.16xlarge,256 GiB,EBS only,20 Gigabit,Linux,General Purpose,Linux,NA,No License required
+DCAN3UYA4WAGA2DP.JRTCKXETXF.6YS6EN2CT7,12.5049600000,US East (Ohio),Memory optimized,128,r6idn.32xlarge,1024 GiB,4 x 1900 NVMe SSD,200000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+DBKA4F5TG2FX3D2E.JRTCKXETXF.6YS6EN2CT7,2.0640000000,US East (Ohio),General purpose,48,m5a.12xlarge,192 GiB,EBS only,10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+DEYCADAD4CCXYTHA.JRTCKXETXF.6YS6EN2CT7,7.6377600000,US East (Ohio),General purpose,96,m6idn.24xlarge,384 GiB,4 x 1425 NVMe SSD,150000 Megabit,Linux,General Purpose,Linux,NA,No License required
+B2FKSMJBVWSCNXWE.JRTCKXETXF.6YS6EN2CT7,0.3720000000,US East (Ohio),Memory optimized,4,r7iz.xlarge,32 GiB,EBS only,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+A3BSWF7X4VU47WXG.JRTCKXETXF.6YS6EN2CT7,2.3040000000,US East (Ohio),General purpose,48,m5.12xlarge,192 GiB,EBS only,10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+EAYEQW5NAMGTCACD.JRTCKXETXF.6YS6EN2CT7,1.8480000000,US East (Ohio),Compute optimized,48,c5a.12xlarge,96 GiB,EBS only,12 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+EC2DPBKAYXPR7RXR.JRTCKXETXF.6YS6EN2CT7,2.4576000000,US East (Ohio),Compute optimized,64,c6gd.16xlarge,128 GiB,2 x 1900 NVMe SSD,25 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+ECSJUB7X4G2XM5WM.JRTCKXETXF.6YS6EN2CT7,1.3437500000,US East (Ohio),Machine Learning ASIC Instances,8,trn1.2xlarge,32 GiB,1 x 475 NVMe SSD,12500 Megabit,Linux,Accelerated Computing,Linux,NA,No License required
+GRVGNZ4NKUXSZE6F.JRTCKXETXF.6YS6EN2CT7,0.2380000000,US East (Ohio),General purpose,4,m5n.xlarge,16 GiB,EBS only,Up to 25 Gigabit,Linux,General Purpose,Linux,NA,No License required
+AEKW9PBAZ9U5ZC9W.JRTCKXETXF.6YS6EN2CT7,13.3380000000,US East (Ohio),Memory optimized,128,x2idn.32xlarge,2048 GiB,2 x 1900 NVMe SSD,100 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+DKJC6P99EK582542.JRTCKXETXF.6YS6EN2CT7,5.3440000000,US East (Ohio),Memory optimized,64,x2gd.16xlarge,1024 GiB,2 x 1900 SSD,25 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+DJW2JS4SNVBC5VE9.JRTCKXETXF.6YS6EN2CT7,0.1323000000,US East (Ohio),Memory optimized,2,r7i.large,16 GiB,EBS only,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+DM4RXCWXP9WJQG5J.JRTCKXETXF.6YS6EN2CT7,0.1026400000,US East (Ohio),Compute optimized,2,c7a.large,4 GiB,EBS only,Up to 12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+EZNXUV9QTAZETNQF.JRTCKXETXF.6YS6EN2CT7,9.8534400000,US East (Ohio),Compute optimized,192,c7a.48xlarge,384 GiB,EBS only,50000 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+CJRKVJZ857CVD7JQ.JRTCKXETXF.6YS6EN2CT7,2.9952000000,US East (Ohio),Compute optimized,48,c7gn.12xlarge,96 GiB,EBS only,150 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+ERTJHHGVUMP767KU.JRTCKXETXF.6YS6EN2CT7,12.9812700000,US East (Ohio),Machine Learning ASIC Instances,192,inf2.48xlarge,768 GiB,EBS only,100 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+CK9BZATX8QVKPM97.JRTCKXETXF.6YS6EN2CT7,2.0736000000,US East (Ohio),Compute optimized,48,c6gn.12xlarge,96 GiB,EBS only,75 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+DTR7TV6QJDGRZPY3.JRTCKXETXF.6YS6EN2CT7,0.0384000000,US East (Ohio),Compute optimized,1,c6gd.medium,2 GiB,1 x 59 NVMe SSD,Up to 10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+EPVW4MPY37KV38EE.JRTCKXETXF.6YS6EN2CT7,12.5049600000,US East (Ohio),Memory optimized,128,r6idn.metal,1024 GiB,4 x 1900 NVMe SSD,200000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+DWQDRJ9AWUJ8BZKH.JRTCKXETXF.6YS6EN2CT7,13.3380000000,US East (Ohio),Memory optimized,128,x1.32xlarge,1952 GiB,2 x 1920 SSD,High,Linux,Memory Optimized,Linux,NA,No License required
+DWACZZBP7VK58VJU.JRTCKXETXF.6YS6EN2CT7,4.8384000000,US East (Ohio),Memory optimized,64,r6id.16xlarge,512 GiB,2 x 1900 NVMe SSD,25000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+GAFQAU2ADHN683AE.JRTCKXETXF.6YS6EN2CT7,3.6864000000,US East (Ohio),Memory optimized,64,r6gd.metal,512 GiB,2 x 1900 NVMe SSD,25 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+DU4PGFNABH466WST.JRTCKXETXF.6YS6EN2CT7,5.4240000000,US East (Ohio),General purpose,96,m5d.metal,384 GiB,4 x 900 NVMe SSD,25 Gigabit,Linux,General Purpose,Linux,NA,No License required
+9PUYJZJUUZ583WWB.JRTCKXETXF.6YS6EN2CT7,0.0336000000,US East (Ohio),General purpose,2,t4g.medium,4 GiB,EBS only,Up to 5 Gigabit,Linux,General Purpose,Linux,NA,No License required
+9RV53SV7FFR22Q2A.JRTCKXETXF.6YS6EN2CT7,2.3840000000,US East (Ohio),Memory optimized,32,r5b.8xlarge,256 GiB,EBS only,10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+9RX9YU2HAPBCJ2JE.JRTCKXETXF.6YS6EN2CT7,0.6912000000,US East (Ohio),General purpose,16,m6a.4xlarge,64 GiB,EBS only,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+9UVHV37U2JG4GC39.JRTCKXETXF.6YS6EN2CT7,2.4192000000,US East (Ohio),General purpose,48,m7i.12xlarge,192 GiB,EBS only,18750 Megabit,Linux,General Purpose,Linux,NA,No License required
+9PBZP9D8RQRFDS4V.JRTCKXETXF.6YS6EN2CT7,0.3072000000,US East (Ohio),Compute optimized,8,c6gd.2xlarge,16 GiB,1 x 475 NVMe SSD,Up to 10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+F7QVJT6XRWFBH2SJ.JRTCKXETXF.6YS6EN2CT7,0.9072000000,US East (Ohio),Compute optimized,16,c6in.4xlarge,32 GiB,EBS only,Up to 50000 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+9H2YEPVZESX4VJQC.JRTCKXETXF.6YS6EN2CT7,14.6064000000,US East (Ohio),Memory optimized,192,r7a.48xlarge,1536 GiB,EBS only,50000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+EKH6BSNH5HYXKWMK.JRTCKXETXF.6YS6EN2CT7,7.2000000000,US East (Ohio),Compute optimized,24,hpc7a.12xlarge,768 GiB,EBS only,300 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+CDYNE8ATA4665QUE.JRTCKXETXF.6YS6EN2CT7,0.0816000000,US East (Ohio),General purpose,2,m7g.large,8 GiB,EBS only,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+CEP2AAWKBFKWJQSK.JRTCKXETXF.6YS6EN2CT7,1.0880000000,US East (Ohio),Compute optimized,32,c6g.8xlarge,64 GiB,EBS only,12 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+CEQV2KXNA3CB7Q8X.JRTCKXETXF.6YS6EN2CT7,4.9920000000,US East (Ohio),Storage optimized,72,i3.metal,512 GiB,8 x 1900 NVMe SSD,25 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+C2XHT7MUVASJ7UQ3.JRTCKXETXF.6YS6EN2CT7,2.0000000000,US East (Ohio),General purpose,40,m4.10xlarge,160 GiB,EBS only,10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+C47DG55MKHUP8BQ8.JRTCKXETXF.6YS6EN2CT7,0.0860000000,US East (Ohio),General purpose,2,m5a.large,8 GiB,EBS only,Up to 10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+C79CFFXAPJP6EMBQ.JRTCKXETXF.6YS6EN2CT7,3.9641000000,US East (Ohio),General purpose,48,m5zn.12xlarge,192 GiB,EBS only,100 Gigabit,Linux,General Purpose,Linux,NA,No License required
+F4RUW2CUYWF8ZHDF.JRTCKXETXF.6YS6EN2CT7,5.9520000000,US East (Ohio),Memory optimized,64,r7iz.16xlarge,512 GiB,EBS only,25000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+C987BYNNSPW8V65Z.JRTCKXETXF.6YS6EN2CT7,5.8206700000,US East (Ohio),Storage optimized,64,im4gn.16xlarge,256 GiB,4 x 7500 SSD,100 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+F5AM4SNB3BPQEVR7.JRTCKXETXF.6YS6EN2CT7,1.8080000000,US East (Ohio),Memory optimized,32,r5a.8xlarge,256 GiB,EBS only,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+C3VQWBC8RWRXMSRG.JRTCKXETXF.6YS6EN2CT7,6.5280000000,US East (Ohio),General purpose,96,m5dn.24xlarge,384 GiB,4 x 900 NVMe SSD,100 Gigabit,Linux,General Purpose,Linux,NA,No License required
+C4THTDBKHV5GXTJD.JRTCKXETXF.6YS6EN2CT7,4.6080000000,US East (Ohio),Compute optimized,96,c5d.24xlarge,192 GiB,4 x 900 NVMe SSD,25 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+C2N434SQBGHCYP33.JRTCKXETXF.6YS6EN2CT7,1.0080000000,US East (Ohio),Memory optimized,16,r6i.4xlarge,128 GiB,EBS only,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+C2PFYWF5NDYBP6U2.JRTCKXETXF.6YS6EN2CT7,1.3760000000,US East (Ohio),Compute optimized,32,c5ad.8xlarge,64 GiB,2 x 600 NVMe SSD,10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+F7XFHYHET8KZ5D92.JRTCKXETXF.6YS6EN2CT7,0.1159200000,US East (Ohio),General purpose,2,m7a.large,8 GiB,EBS only,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+CSXZUZDDB3UM3A97.JRTCKXETXF.6YS6EN2CT7,9.6768000000,US East (Ohio),Memory optimized,128,r6id.metal,1024 GiB,4 x 1900 NVMe SSD,50000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+FA3Y5HKUGHFU5PDK.JRTCKXETXF.6YS6EN2CT7,0.0042000000,US East (Ohio),General purpose,2,t4g.nano,0.5 GiB,EBS only,Up to 5 Gigabit,Linux,General Purpose,Linux,NA,No License required
+CPSJCY3WYE8URAHW.JRTCKXETXF.6YS6EN2CT7,3.2659000000,US East (Ohio),Memory optimized,48,r7gd.12xlarge,384 GiB,2 x 1425 NVMe SSD,22500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+CQ6CGBNXV5H6P8YN.JRTCKXETXF.6YS6EN2CT7,0.0579600000,US East (Ohio),General purpose,1,m7a.medium,4 GiB,EBS only,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+F8QJKFPYN8FAT8TV.JRTCKXETXF.6YS6EN2CT7,27.3000000000,US East (Ohio),Memory optimized,224,u-3tb1.56xlarge,3072 GiB,EBS only,50 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+CU66VZTZ2K54R4BC.JRTCKXETXF.6YS6EN2CT7,1.1920000000,US East (Ohio),Memory optimized,16,r5n.4xlarge,128 GiB,EBS only,Up to 25 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+CU86M25SPWQA8CJ7.JRTCKXETXF.6YS6EN2CT7,0.1728000000,US East (Ohio),Compute optimized,4,c6gn.xlarge,8 GiB,EBS only,Up to 25 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+FVPEHP5AV64WVXR4.JRTCKXETXF.6YS6EN2CT7,0.1670000000,US East (Ohio),Memory optimized,2,x2gd.large,32 GiB,1 x 118 SSD,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+D3823PQ23NZEKN76.JRTCKXETXF.6YS6EN2CT7,0.5443000000,US East (Ohio),Memory optimized,8,r7gd.2xlarge,64 GiB,1 x 475 NVMe SSD,Up to 15 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+D3NYAKZE5EV25YTB.JRTCKXETXF.6YS6EN2CT7,0.1743300000,US East (Ohio),Memory optimized,2,r6in.large,16 GiB,EBS only,Up to 25000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+FXK4M8EXPVVPBJXP.JRTCKXETXF.6YS6EN2CT7,0.1720000000,US East (Ohio),Compute optimized,4,c5ad.xlarge,8 GiB,1 x 150 NVMe SSD,Up to 10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+CVPBWYG2JMGPVSB3.JRTCKXETXF.6YS6EN2CT7,2.4192000000,US East (Ohio),Compute optimized,48,c6id.12xlarge,96 GiB,2 x 1425 NVMe SSD,18750 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+D25GXWFH8WX2KCCZ.JRTCKXETXF.6YS6EN2CT7,0.0860000000,US East (Ohio),Compute optimized,2,c5ad.large,4 GiB,1 x 75 NVMe SSD,Up to 10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+AR62A6B34D8X27AA.JRTCKXETXF.6YS6EN2CT7,3.2256000000,US East (Ohio),General purpose,64,m7i.16xlarge,256 GiB,EBS only,25000 Megabit,Linux,General Purpose,Linux,NA,No License required
+D947XV3XRFYF58QP.JRTCKXETXF.6YS6EN2CT7,2.7648000000,US East (Ohio),Compute optimized,64,c6gn.16xlarge,128 GiB,EBS only,100 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+CWBK779A7QPAG983.JRTCKXETXF.6YS6EN2CT7,0.1440000000,US East (Ohio),Memory optimized,2,r5d.large,16 GiB,1 x 75 NVMe SSD,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+DCEDSU592GQNCDE3.JRTCKXETXF.6YS6EN2CT7,1.7340000000,US East (Ohio),GPU instance,32,g4ad.8xlarge,128 GiB,1200 GB NVMe SSD,15 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+APH34XD7FXQ9GYQG.JRTCKXETXF.6YS6EN2CT7,0.2496000000,US East (Ohio),Compute optimized,4,c7gn.xlarge,8 GiB,EBS only,Up to 40 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+FT7C937ETECEQ7CV.JRTCKXETXF.6YS6EN2CT7,1.2096000000,US East (Ohio),Memory optimized,16,r6id.4xlarge,128 GiB,1 x 950 NVMe SSD,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+DGWBCFWWRGXENFMK.JRTCKXETXF.6YS6EN2CT7,0.2318400000,US East (Ohio),General purpose,4,m7a.xlarge,16 GiB,EBS only,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+GSMN37GEEUV2CC27.JRTCKXETXF.6YS6EN2CT7,0.8000000000,US East (Ohio),General purpose,16,m4.4xlarge,64 GiB,EBS only,High,Linux,General Purpose,Linux,NA,No License required
+9MXQF8NSPZESJJUW.JRTCKXETXF.6YS6EN2CT7,6.6690000000,US East (Ohio),Memory optimized,64,x1.16xlarge,976 GiB,1 x 1920 SSD,High,Linux,Memory Optimized,Linux,NA,No License required
+GPT6TX866NWYVV4F.JRTCKXETXF.6YS6EN2CT7,0.5292000000,US East (Ohio),Memory optimized,8,r7i.2xlarge,64 GiB,EBS only,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+EE9WDWPYWXY84HCQ.JRTCKXETXF.6YS6EN2CT7,0.2520000000,US East (Ohio),Memory optimized,4,r6i.xlarge,32 GiB,EBS only,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+E87EXYPFQTKVGJD5.JRTCKXETXF.6YS6EN2CT7,0.3264000000,US East (Ohio),General purpose,8,m7g.2xlarge,32 GiB,EBS only,Up to 15 Gigabit,Linux,General Purpose,Linux,NA,No License required
+ACB3JX6MEYSJ8Z4D.JRTCKXETXF.6YS6EN2CT7,1.4880000000,US East (Ohio),Memory optimized,16,r7iz.4xlarge,128 GiB,EBS only,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+ACX2UGE8DKREMJ2M.JRTCKXETXF.6YS6EN2CT7,2.1696000000,US East (Ohio),General purpose,48,m6gd.12xlarge,192 GiB,2 x 1425 NVMe SSD,20 Gigabit,Linux,General Purpose,Linux,NA,No License required
+E9R6RMUH4FPR7URB.JRTCKXETXF.6YS6EN2CT7,0.1664000000,US East (Ohio),General purpose,4,t3.xlarge,16 GiB,EBS only,Up to 5 Gigabit,Linux,General Purpose,Linux,NA,No License required
+EYNM7AQXUPNAR3A4.JRTCKXETXF.6YS6EN2CT7,81.9000000000,US East (Ohio),Memory optimized,448,u-9tb1.112xlarge,9216 GiB,EBS only,100 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+CMV8WJ4HSUKCNCVK.JRTCKXETXF.6YS6EN2CT7,3.4171000000,US East (Ohio),General purpose,64,m7gd.16xlarge,256 GiB,2 x 1900 NVMe SSD,30 Gigabit,Linux,General Purpose,Linux,NA,No License required
+AZDPP3QWR6Y6VCFA.JRTCKXETXF.6YS6EN2CT7,0.1920000000,US East (Ohio),General purpose,4,m6i.xlarge,16 GiB,EBS only,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+BV6TPVBSD57P5A6W.JRTCKXETXF.6YS6EN2CT7,3.7094400000,US East (Ohio),General purpose,64,m7a.16xlarge,256 GiB,EBS only,25000 Megabit,Linux,General Purpose,Linux,NA,No License required
+G8STD8TMZJJZZ82A.JRTCKXETXF.6YS6EN2CT7,8.2944000000,US East (Ohio),General purpose,192,m6a.metal,768 GiB,EBS only,50000 Megabit,Linux,General Purpose,Linux,NA,No License required
+G9EBCYNDEQUNTW58.JRTCKXETXF.6YS6EN2CT7,0.0340000000,US East (Ohio),Compute optimized,1,c6g.medium,2 GiB,EBS only,Up to 10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+A7XYYCYRJ9W2AKRP.JRTCKXETXF.6YS6EN2CT7,0.2784600000,US East (Ohio),General purpose,4,m6in.xlarge,16 GiB,EBS only,Up to 30000 Megabit,Linux,General Purpose,Linux,NA,No License required
+GEWCPHBEYM28HQCV.JRTCKXETXF.6YS6EN2CT7,0.3182400000,US East (Ohio),General purpose,4,m6idn.xlarge,16 GiB,1 x 237 NVMe SSD,Up to 30000 Megabit,Linux,General Purpose,Linux,NA,No License required
+GCU6QSAVBZV2FF4Y.JRTCKXETXF.6YS6EN2CT7,0.1632000000,US East (Ohio),General purpose,4,m7g.xlarge,16 GiB,EBS only,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+9WM545YS6JZHQA5S.JRTCKXETXF.6YS6EN2CT7,4.2336000000,US East (Ohio),Memory optimized,64,r7i.16xlarge,512 GiB,EBS only,25000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+9R4KEPV5ZG232WSQ.JRTCKXETXF.6YS6EN2CT7,4.4640000000,US East (Ohio),Memory optimized,48,r7iz.12xlarge,384 GiB,EBS only,25000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+9S3T4ZTHVT95Y4SR.JRTCKXETXF.6YS6EN2CT7,3.9936000000,US East (Ohio),Compute optimized,64,c7gn.16xlarge,128 GiB,EBS only,200 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+9SMG4FW2BBFHRTVA.JRTCKXETXF.6YS6EN2CT7,0.0892500000,US East (Ohio),Compute optimized,2,c7i.large,4 GiB,EBS only,Up to 12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+9MH3R7NV3X9U6W5T.JRTCKXETXF.6YS6EN2CT7,0.3456000000,US East (Ohio),General purpose,8,m6a.2xlarge,32 GiB,EBS only,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+9T4VESUT526VH7DV.JRTCKXETXF.6YS6EN2CT7,1.2320000000,US East (Ohio),Compute optimized,32,c5a.8xlarge,64 GiB,EBS only,10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+FDEGDT8QVVNMZ4MQ.JRTCKXETXF.6YS6EN2CT7,3.5760000000,US East (Ohio),Memory optimized,48,r5n.12xlarge,384 GiB,EBS only,50 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+2F59VHMSSWJCFBS3.JRTCKXETXF.6YS6EN2CT7,0.1490000000,US East (Ohio),Memory optimized,2,r5b.large,16 GiB,EBS only,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+2FM4GT846DH9SRXM.JRTCKXETXF.6YS6EN2CT7,21.5000000000,US East (Ohio),Machine Learning ASIC Instances,128,trn1.32xlarge,512 GiB,4 x 1900 NVMe SSD,800 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+2FPJ95T3QM6CBR75.JRTCKXETXF.6YS6EN2CT7,5.4432000000,US East (Ohio),Compute optimized,96,c6in.24xlarge,192 GiB,EBS only,150000 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+2JJMSP67YDHP8KA7.JRTCKXETXF.6YS6EN2CT7,9.7376000000,US East (Ohio),Memory optimized,128,r7a.32xlarge,1024 GiB,EBS only,50000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+2C893VKRW4MATYBC.JRTCKXETXF.6YS6EN2CT7,5.5296000000,US East (Ohio),General purpose,128,m6a.32xlarge,512 GiB,EBS only,50000 Megabit,Linux,General Purpose,Linux,NA,No License required
+2TNATRQBKEWEGQQH.JRTCKXETXF.6YS6EN2CT7,0.7815600000,US East (Ohio),Memory optimized,8,r6idn.2xlarge,64 GiB,1 x 474 NVMe SSD,Up to 40000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+2UHXTYN3FDY8A4SD.JRTCKXETXF.6YS6EN2CT7,0.6160000000,US East (Ohio),Compute optimized,16,c5a.4xlarge,32 GiB,EBS only,Up to 10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+355AC2A3BDEW2YEW.JRTCKXETXF.6YS6EN2CT7,1.3056000000,US East (Ohio),General purpose,32,m7g.8xlarge,128 GiB,EBS only,15 Gigabit,Linux,General Purpose,Linux,NA,No License required
+35BHRDHRYRX7G3BH.JRTCKXETXF.6YS6EN2CT7,2.1168000000,US East (Ohio),Memory optimized,32,r7i.8xlarge,256 GiB,EBS only,12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+32APMGQCTPKHEJ8Y.JRTCKXETXF.6YS6EN2CT7,5.3440000000,US East (Ohio),Memory optimized,64,x2gd.metal,1024 GiB,2 x 1900 SSD,25 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+2PAE8XWKR2MA9MG4.JRTCKXETXF.6YS6EN2CT7,0.0960000000,US East (Ohio),Compute optimized,2,c5d.large,4 GiB,1 x 50 NVMe SSD,Up to 10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+2N2QH6UEJZ5GUPT8.JRTCKXETXF.6YS6EN2CT7,0.0464000000,US East (Ohio),General purpose,2,t2.medium,4 GiB,EBS only,Low to Moderate,Linux,General Purpose,Linux,NA,No License required
+2MMQWZDR49HPPVAF.JRTCKXETXF.6YS6EN2CT7,0.7680000000,US East (Ohio),General purpose,16,m6i.4xlarge,64 GiB,EBS only,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+24VNPYX565QU9U4D.JRTCKXETXF.6YS6EN2CT7,7.2000000000,US East (Ohio),GPU instance,32,p2.8xlarge,488 GiB,EBS only,10 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+2C6AESDTKVKNQWFW.JRTCKXETXF.6YS6EN2CT7,0.3785300000,US East (Ohio),GPU instance,4,g4ad.xlarge,16 GiB,150 GB NVMe SSD,Up to 10 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+3Q3KMU6V2WXDU3Z6.JRTCKXETXF.6YS6EN2CT7,0.6120000000,US East (Ohio),Compute optimized,16,c6a.4xlarge,32 GiB,EBS only,Up to 12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+3VQ6EDX9Q2B74SGM.JRTCKXETXF.6YS6EN2CT7,1.3946400000,US East (Ohio),Memory optimized,16,r6in.4xlarge,128 GiB,EBS only,Up to 50000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+3SUD9CQMZ2J22XTV.JRTCKXETXF.6YS6EN2CT7,2.7892800000,US East (Ohio),Memory optimized,32,r6in.8xlarge,256 GiB,EBS only,50000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+4FMC7EABJDACX47D.JRTCKXETXF.6YS6EN2CT7,1.6672500000,US East (Ohio),Memory optimized,8,x2iedn.2xlarge,256 GiB,1 x 237 NVMe SSD,Up to 25 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+4EJ2SA69BF62X3X5.JRTCKXETXF.6YS6EN2CT7,0.6680000000,US East (Ohio),Memory optimized,8,r5dn.2xlarge,64 GiB,1 x 300 NVMe SSD,Up to 25 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+3ESXTARACC6BZH27.JRTCKXETXF.6YS6EN2CT7,0.1260000000,US East (Ohio),Memory optimized,2,r6i.large,16 GiB,EBS only,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+37YYE7FKU8SXD6SZ.JRTCKXETXF.6YS6EN2CT7,0.0960000000,US East (Ohio),General purpose,2,m6i.large,8 GiB,EBS only,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+45G5T4M6DUGP8RE7.JRTCKXETXF.6YS6EN2CT7,0.1652000000,US East (Ohio),General purpose,2,m5zn.large,8 GiB,EBS only,Up to 25 Gigabit,Linux,General Purpose,Linux,NA,No License required
+4A8UM8ATMSAW5KDP.JRTCKXETXF.6YS6EN2CT7,4.0800000000,US East (Ohio),Compute optimized,96,c6i.24xlarge,192 GiB,EBS only,37500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+4BQGQP33VA3MWXWK.JRTCKXETXF.6YS6EN2CT7,0.7440000000,US East (Ohio),Memory optimized,8,r7iz.2xlarge,64 GiB,EBS only,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+4BG6FZ9A5NM8836C.JRTCKXETXF.6YS6EN2CT7,0.3340000000,US East (Ohio),Memory optimized,4,r5dn.xlarge,32 GiB,1 x 150 NVMe SSD,Up to 25 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+4A3MNQDTV5KMV3RM.JRTCKXETXF.6YS6EN2CT7,0.6177600000,US East (Ohio),Storage optimized,8,i4g.2xlarge,64 GiB,1 x 1875 SSD,Up to 12 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+4BRUNECYPD9UAZA6.JRTCKXETXF.6YS6EN2CT7,0.3303000000,US East (Ohio),General purpose,4,m5zn.xlarge,16 GiB,EBS only,Up to 25 Gigabit,Linux,General Purpose,Linux,NA,No License required
+45HT3AD2SJBAFJGZ.JRTCKXETXF.6YS6EN2CT7,6.3504000000,US East (Ohio),Memory optimized,96,r7i.metal-24xl,768 GiB,EBS only,37500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+49HTVZD5D4J22XE8.JRTCKXETXF.6YS6EN2CT7,24.7800000000,US East (Ohio),Machine Learning ASIC Instances,128,trn1n.32xlarge,512 GiB,4 x 1900 NVMe SSD,1600 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+495PTJUX3QUEQ3P5.JRTCKXETXF.6YS6EN2CT7,0.8240000000,US East (Ohio),General purpose,16,m5ad.4xlarge,64 GiB,2 x 300 NVMe SSD,Up to 10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+4E7EDUZD2S93FX73.JRTCKXETXF.6YS6EN2CT7,1.5300000000,US East (Ohio),Compute optimized,36,c5.9xlarge,72 GiB,EBS only,10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+4G6M3GP6XFSV6XKF.JRTCKXETXF.6YS6EN2CT7,5.4432000000,US East (Ohio),Memory optimized,96,r6a.24xlarge,768 GiB,EBS only,37500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+3XXU2UHMQUGZ2H7C.JRTCKXETXF.6YS6EN2CT7,2.0400000000,US East (Ohio),Compute optimized,48,c5.12xlarge,96 GiB,EBS only,12 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+3YNRUJVA7RYEWVN5.JRTCKXETXF.6YS6EN2CT7,0.6800000000,US East (Ohio),Compute optimized,16,c5.4xlarge,32 GiB,EBS only,Up to 10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+494A792X6RNVVUKT.JRTCKXETXF.6YS6EN2CT7,0.5781000000,US East (Ohio),Compute optimized,16,c7g.4xlarge,32 GiB,EBS only,Up to 15 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+2A6XPQM2VJYGY7JF.JRTCKXETXF.6YS6EN2CT7,1.8144000000,US East (Ohio),Compute optimized,32,c6in.8xlarge,64 GiB,EBS only,50000 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+27YFAZJQ2PH4DQUV.JRTCKXETXF.6YS6EN2CT7,5.7120000000,US East (Ohio),General purpose,96,m5n.24xlarge,384 GiB,EBS only,100 Gigabit,Linux,General Purpose,Linux,NA,No License required
+2H6WXE9JSKW3YD5Z.JRTCKXETXF.6YS6EN2CT7,3.9936000000,US East (Ohio),Compute optimized,64,c7gn.metal,128 GiB,EBS only,200 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+2HYDNS63MB57D39W.JRTCKXETXF.6YS6EN2CT7,1.6320000000,US East (Ohio),Compute optimized,48,c6g.12xlarge,96 GiB,EBS only,20 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+2G94NDU48M96HTVW.JRTCKXETXF.6YS6EN2CT7,1.8360000000,US East (Ohio),Compute optimized,48,c6a.12xlarge,96 GiB,EBS only,18750 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+3BAJHHA82QHE6BER.JRTCKXETXF.6YS6EN2CT7,0.1008000000,US East (Ohio),Compute optimized,2,c6id.large,4 GiB,1 x 118 NVMe SSD,Up to 12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+34ZGXCGKG242DRBJ.JRTCKXETXF.6YS6EN2CT7,0.2722000000,US East (Ohio),Memory optimized,4,r7gd.xlarge,32 GiB,1 x 237 NVMe SSD,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+2VD58FF95MGYCHHV.JRTCKXETXF.6YS6EN2CT7,0.1953900000,US East (Ohio),Memory optimized,2,r6idn.large,16 GiB,1 x 118 NVMe SSD,Up to 25000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+2Z2MRBEF9NQWUCQY.JRTCKXETXF.6YS6EN2CT7,4.4640000000,US East (Ohio),Memory optimized,48,z1d.metal,384 GiB,2 x 900 NVMe SSD,25 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+4UGCNA8KMAFPS927.JRTCKXETXF.6YS6EN2CT7,0.7258000000,US East (Ohio),Compute optimized,16,c7gd.4xlarge,32 GiB,1 x 950 NVMe SSD,Up to 15 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+5NKF852YZJ3EK9C7.JRTCKXETXF.6YS6EN2CT7,26.6760000000,US East (Ohio),Memory optimized,128,x2iedn.32xlarge,4096 GiB,2 x 1900 NVMe SSD,100 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+8X9DA4C59QCWQD3U.JRTCKXETXF.6YS6EN2CT7,0.0534000000,US East (Ohio),General purpose,1,m7gd.medium,4 GiB,1 x 59 NVMe SSD,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+8UYD3VJ5TQ6PEW5V.JRTCKXETXF.6YS6EN2CT7,0.4536000000,US East (Ohio),Compute optimized,8,c6in.2xlarge,16 GiB,EBS only,Up to 40000 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+8WR3PS8YW9JAEXBE.JRTCKXETXF.6YS6EN2CT7,0.1536000000,US East (Ohio),Compute optimized,4,c6gd.xlarge,8 GiB,1 x 237 NVMe SSD,Up to 10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+8WKT5SMNY9XNW5R2.JRTCKXETXF.6YS6EN2CT7,3.4171000000,US East (Ohio),General purpose,64,m7gd.metal,256 GiB,2 x 1900 NVMe SSD,30 Gigabit,Linux,General Purpose,Linux,NA,No License required
+5892A64F599FA7UY.JRTCKXETXF.6YS6EN2CT7,0.3840000000,US East (Ohio),Compute optimized,8,c5d.2xlarge,16 GiB,1 x 200 NVMe SSD,Up to 10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+5A5YDJFWMTFCUV2N.JRTCKXETXF.6YS6EN2CT7,3.2256000000,US East (Ohio),Memory optimized,64,r6g.16xlarge,512 GiB,EBS only,25 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+5CM3BE6S9BSDRFYM.JRTCKXETXF.6YS6EN2CT7,4.6080000000,US East (Ohio),General purpose,96,m6i.24xlarge,384 GiB,EBS only,37500 Megabit,Linux,General Purpose,Linux,NA,No License required
+7H46SMEEZM838TGW.JRTCKXETXF.6YS6EN2CT7,3.6516000000,US East (Ohio),Memory optimized,48,r7a.12xlarge,384 GiB,EBS only,18750 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+7BJ64EYJRHNC4MM9.JRTCKXETXF.6YS6EN2CT7,3.4272000000,US East (Ohio),Memory optimized,64,r7g.16xlarge,512 GiB,EBS only,30 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+4QSHENQKE5VDAGGR.JRTCKXETXF.6YS6EN2CT7,3.7440000000,US East (Ohio),Storage optimized,64,h1.16xlarge,256 GiB,8 x 2000 HDD,25 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+7YUN4R6V83YNDAP3.JRTCKXETXF.6YS6EN2CT7,0.9273600000,US East (Ohio),General purpose,16,m7a.4xlarge,64 GiB,EBS only,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+4MHVDXDPKESJ8D5F.JRTCKXETXF.6YS6EN2CT7,3.8880000000,US East (Ohio),Compute optimized,72,c5n.metal,192 GiB,EBS only,100 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+846JB6PZ7D4HVUW6.JRTCKXETXF.6YS6EN2CT7,2.4576000000,US East (Ohio),Compute optimized,64,c6gd.metal,128 GiB,2 x 1900 NVMe SSD,25 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+8476NEEEXV7W9W5Q.JRTCKXETXF.6YS6EN2CT7,3.0240000000,US East (Ohio),Memory optimized,48,r5.12xlarge,384 GiB,EBS only,10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+4YQUFBTAEHTVGAP7.JRTCKXETXF.6YS6EN2CT7,0.0408000000,US East (Ohio),General purpose,1,m7g.medium,4 GiB,EBS only,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+4YHB8A4RWJM6VBZP.JRTCKXETXF.6YS6EN2CT7,0.4520000000,US East (Ohio),General purpose,8,m5d.2xlarge,32 GiB,1 x 300 NVMe SSD,Up to 10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+7YKVUXW97ZEBU7ZT.JRTCKXETXF.6YS6EN2CT7,0.1445000000,US East (Ohio),Compute optimized,4,c7g.xlarge,8 GiB,EBS only,Up to 12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+53WMMPRTNPV95435.JRTCKXETXF.6YS6EN2CT7,5.4910000000,US East (Ohio),Storage optimized,64,i4i.16xlarge,512 GiB,4 x 3750 NVMe SSD,35000 Megabit,Linux,Storage Optimized,Linux,NA,No License required
+54K37YY9PB25TWMC.JRTCKXETXF.6YS6EN2CT7,1.2729600000,US East (Ohio),General purpose,16,m6idn.4xlarge,64 GiB,1 x 950 NVMe SSD,Up to 50000 Megabit,Linux,General Purpose,Linux,NA,No License required
+6BKQGE374ZZN28NG.JRTCKXETXF.6YS6EN2CT7,1.2120000000,US East (Ohio),GPU instance,8,g5.2xlarge,32 GiB,1 x 450 GB NVMe SSD,Up to 10 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+9F7GGKJQGM6J387N.JRTCKXETXF.6YS6EN2CT7,0.1000000000,US East (Ohio),Compute optimized,2,c4.large,3.75 GiB,EBS only,Moderate,Linux,Compute Optimized,Linux,NA,No License required
+9F2Q74QEE8HZE6A8.JRTCKXETXF.6YS6EN2CT7,0.2660000000,US East (Ohio),Memory optimized,4,r4.xlarge,30.5 GiB,EBS only,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+4J5KP7A9TKBM6AD9.JRTCKXETXF.6YS6EN2CT7,0.5763000000,US East (Ohio),Storage optimized,4,is4gen.xlarge,24 GiB,1 x 3750 SSD,Up to 25 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+8XXNNMMWDCXUC6Y6.JRTCKXETXF.6YS6EN2CT7,1.1526000000,US East (Ohio),Storage optimized,8,is4gen.2xlarge,48 GiB,1 x 7500 SSD,Up to 25 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+93HAYG7AFZGMJKJY.JRTCKXETXF.6YS6EN2CT7,3.2000000000,US East (Ohio),General purpose,64,m4.16xlarge,256 GiB,EBS only,20 Gigabit,Linux,General Purpose,Linux,NA,No License required
+6Z9XXNT333FD3QDC.JRTCKXETXF.6YS6EN2CT7,1.5360000000,US East (Ohio),General purpose,32,m6i.8xlarge,128 GiB,EBS only,12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+7M68E48TNYWRACE7.JRTCKXETXF.6YS6EN2CT7,4.7210000000,US East (Ohio),Machine Learning ASIC Instances,96,inf1.24xlarge,192 GiB,EBS only,100 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+5V2EGZS4TZQY7TW5.JRTCKXETXF.6YS6EN2CT7,5.4400000000,US East (Ohio),Compute optimized,128,c6i.metal,256 GiB,EBS only,50000 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+7J4E3V54P4EYVX4D.JRTCKXETXF.6YS6EN2CT7,6.9120000000,US East (Ohio),Memory optimized,96,r5d.metal,768 GiB,4 x 900 NVMe SSD,25 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+AHRWUFJ3AJQ6MADP.JRTCKXETXF.6YS6EN2CT7,0.7500000000,US East (Ohio),GPU instance,4,g3s.xlarge,30.5 GiB,EBS only,10 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+CW5K8WDXPZA79ZFW.JRTCKXETXF.6YS6EN2CT7,0.6364800000,US East (Ohio),General purpose,8,m6idn.2xlarge,32 GiB,1 x 474 NVMe SSD,Up to 40000 Megabit,Linux,General Purpose,Linux,NA,No License required
+CYYV3XADFYTHU7DY.JRTCKXETXF.6YS6EN2CT7,2.5459200000,US East (Ohio),General purpose,32,m6idn.8xlarge,128 GiB,1 x 1900 NVMe SSD,50000 Megabit,Linux,General Purpose,Linux,NA,No License required
+ATZSNY3GAKQTD4XJ.JRTCKXETXF.6YS6EN2CT7,0.2620000000,US East (Ohio),Memory optimized,4,r5ad.xlarge,32 GiB,1 x 150 NVMe SSD,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+FSZC3TSJBXWHNWXF.JRTCKXETXF.6YS6EN2CT7,0.6880000000,US East (Ohio),General purpose,16,m5a.4xlarge,64 GiB,EBS only,Up to 10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+FRPFF6N4YCNSUEDF.JRTCKXETXF.6YS6EN2CT7,3.0720000000,US East (Ohio),General purpose,64,m6i.16xlarge,256 GiB,EBS only,25000 Megabit,Linux,General Purpose,Linux,NA,No License required
+FECHAGGPF8G7ZYDM.JRTCKXETXF.6YS6EN2CT7,2.7648000000,US East (Ohio),General purpose,64,m6a.16xlarge,256 GiB,EBS only,25000 Megabit,Linux,General Purpose,Linux,NA,No License required
+DHQHUWC9P2GVYKX6.JRTCKXETXF.6YS6EN2CT7,0.0907000000,US East (Ohio),Compute optimized,2,c7gd.large,4 GiB,1 x 118 NVMe SSD,Up to 12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+GRC4TBHYC934KSEJ.JRTCKXETXF.6YS6EN2CT7,0.1440800000,US East (Ohio),Storage optimized,1,is4gen.medium,6 GiB,1 x 937 SSD,Up to 25 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+9NRR8BUG6FJJ5CKP.JRTCKXETXF.6YS6EN2CT7,4.7680000000,US East (Ohio),Memory optimized,64,r5b.16xlarge,512 GiB,EBS only,20 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+9NH9ZG6PWHXHN8CE.JRTCKXETXF.6YS6EN2CT7,3.4680000000,US East (Ohio),GPU instance,64,g4ad.16xlarge,256 GiB,2400 GB NVMe SSD,25 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+A47K9BJ2U8W6QYUE.JRTCKXETXF.6YS6EN2CT7,8.0640000000,US East (Ohio),Memory optimized,128,r6i.32xlarge,1024 GiB,EBS only,50000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+GPPGEAEF49ATEFKK.JRTCKXETXF.6YS6EN2CT7,1.1562000000,US East (Ohio),Compute optimized,32,c7g.8xlarge,64 GiB,EBS only,15 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+AC8QGG57BKPB5MKY.JRTCKXETXF.6YS6EN2CT7,1.9820000000,US East (Ohio),General purpose,24,m5zn.6xlarge,96 GiB,EBS only,50 Gigabit,Linux,General Purpose,Linux,NA,No License required
+EC2PAVJCS6AVJP5H.JRTCKXETXF.6YS6EN2CT7,0.2720000000,US East (Ohio),Compute optimized,8,c6g.2xlarge,16 GiB,EBS only,Up to 10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+EX6UG3MX4WVN4V4Z.JRTCKXETXF.6YS6EN2CT7,0.0576000000,US East (Ohio),Memory optimized,1,r6gd.medium,8 GiB,1 x 59 NVMe SSD,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+EZR4NNU4465PNGD8.JRTCKXETXF.6YS6EN2CT7,0.4746000000,US East (Ohio),General purpose,8,m6id.2xlarge,32 GiB,1 x 474 NVMe SSD,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+ERCJ3ARP9BEHJGHB.JRTCKXETXF.6YS6EN2CT7,0.3486600000,US East (Ohio),Memory optimized,4,r6in.xlarge,32 GiB,EBS only,Up to 30000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+ESF2RXRC4EQCP8UY.JRTCKXETXF.6YS6EN2CT7,0.1361000000,US East (Ohio),Memory optimized,2,r7gd.large,16 GiB,1 x 118 NVMe SSD,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+DRM894W87RNVKC9C.JRTCKXETXF.6YS6EN2CT7,2.6720000000,US East (Ohio),Memory optimized,32,x2gd.8xlarge,512 GiB,1 x 1900 SSD,12 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+DRUR73KJWREKJ337.JRTCKXETXF.6YS6EN2CT7,5.5785600000,US East (Ohio),Memory optimized,64,r6in.16xlarge,512 GiB,EBS only,100000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+A7BR96XHUC3GZBDB.JRTCKXETXF.6YS6EN2CT7,2.0400000000,US East (Ohio),Compute optimized,48,c6i.12xlarge,96 GiB,EBS only,18750 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+9W9WUN8874RQJPYR.JRTCKXETXF.6YS6EN2CT7,0.0752000000,US East (Ohio),General purpose,2,t3a.large,8 GiB,EBS only,Up to 5 Gigabit,Linux,General Purpose,Linux,NA,No License required
+E2RQJ4TEVFQ9GXT6.JRTCKXETXF.6YS6EN2CT7,6.3504000000,US East (Ohio),Memory optimized,96,r7i.24xlarge,768 GiB,EBS only,37500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+GHPEXJBD35RFJG26.JRTCKXETXF.6YS6EN2CT7,8.3678400000,US East (Ohio),Memory optimized,96,r6in.24xlarge,768 GiB,EBS only,150000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+9H2GQTY527HSSJFF.JRTCKXETXF.6YS6EN2CT7,1.3560000000,US East (Ohio),Storage optimized,12,i3en.3xlarge,96 GiB,1 x 7500 NVMe SSD,Up to 25 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+BHWZ5SVSVVDDEC7Q.JRTCKXETXF.6YS6EN2CT7,0.0680000000,US East (Ohio),Compute optimized,2,c6g.large,4 GiB,EBS only,Up to 10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+BN4FCW63KDU5A5XK.JRTCKXETXF.6YS6EN2CT7,0.2016000000,US East (Ohio),Compute optimized,4,c6id.xlarge,8 GiB,1 x 237 NVMe SSD,Up to 12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+BHGPK8M648H5GAQW.JRTCKXETXF.6YS6EN2CT7,2.1420000000,US East (Ohio),Compute optimized,48,c7i.12xlarge,96 GiB,EBS only,18750 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+BP4MG4P47R5ZJUG3.JRTCKXETXF.6YS6EN2CT7,4.0080000000,US East (Ohio),Memory optimized,48,x2gd.12xlarge,768 GiB,2 x 1425 SSD,20 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+BH4B5WNM6XUXN9QV.JRTCKXETXF.6YS6EN2CT7,11.1283200000,US East (Ohio),General purpose,192,m7a.metal-48xl,768 GiB,EBS only,50000 Megabit,Linux,General Purpose,Linux,NA,No License required
+BP8MTRD66KW669AY.JRTCKXETXF.6YS6EN2CT7,0.5040000000,US East (Ohio),Memory optimized,8,r6i.2xlarge,64 GiB,EBS only,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+64UZ59KRS55PP3WM.JRTCKXETXF.6YS6EN2CT7,0.2260000000,US East (Ohio),Memory optimized,4,r5a.xlarge,32 GiB,EBS only,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+5YQ29A5HWAURDWVT.JRTCKXETXF.6YS6EN2CT7,0.7440000000,US East (Ohio),Memory optimized,8,z1d.2xlarge,64 GiB,1 x 300 NVMe SSD,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+6VX264Q3CM5XJQSK.JRTCKXETXF.6YS6EN2CT7,0.7275800000,US East (Ohio),Storage optimized,8,im4gn.2xlarge,32 GiB,1 x 3750 SSD,Up to 25 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+6XUWEGZUKHG3FEP3.JRTCKXETXF.6YS6EN2CT7,0.9072000000,US East (Ohio),Memory optimized,16,r6a.4xlarge,128 GiB,EBS only,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+6JDGZJ56V6W9ET6A.JRTCKXETXF.6YS6EN2CT7,2.0160000000,US East (Ohio),Memory optimized,32,r6i.8xlarge,256 GiB,EBS only,12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+6K82GDF26GSK3BUW.JRTCKXETXF.6YS6EN2CT7,1.0584000000,US East (Ohio),Memory optimized,16,r7i.4xlarge,128 GiB,EBS only,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+BFQV6KTUX7K3CP48.JRTCKXETXF.6YS6EN2CT7,10.1836800000,US East (Ohio),General purpose,128,m6idn.32xlarge,512 GiB,4 x 1900 NVMe SSD,200000 Megabit,Linux,General Purpose,Linux,NA,No License required
+BERDMNGW94ZEU6QJ.JRTCKXETXF.6YS6EN2CT7,0.6528000000,US East (Ohio),General purpose,16,m7g.4xlarge,64 GiB,EBS only,Up to 15 Gigabit,Linux,General Purpose,Linux,NA,No License required
+BKYGXBDX8TJV57PF.JRTCKXETXF.6YS6EN2CT7,0.2268000000,US East (Ohio),Compute optimized,4,c6in.xlarge,8 GiB,EBS only,Up to 30000 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+Y2SG8292X4XGQ53C.JRTCKXETXF.6YS6EN2CT7,1.6128000000,US East (Ohio),Compute optimized,32,c6id.8xlarge,64 GiB,1 x 1900 NVMe SSD,12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+Y3SUYSYH3DS2J5JK.JRTCKXETXF.6YS6EN2CT7,2.4720000000,US East (Ohio),General purpose,48,m5ad.12xlarge,192 GiB,2 x 900 NVMe SSD,10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+Y5AJYNC7MEUPH7AT.JRTCKXETXF.6YS6EN2CT7,6.2524800000,US East (Ohio),Memory optimized,64,r6idn.16xlarge,512 GiB,2 x 1900 NVMe SSD,100000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+Y6WNUUFEJZ2F8Q3U.JRTCKXETXF.6YS6EN2CT7,3.6160000000,US East (Ohio),Memory optimized,64,r5a.16xlarge,512 GiB,EBS only,12 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+Y73QEJPSBYNQCFQA.JRTCKXETXF.6YS6EN2CT7,0.5760000000,US East (Ohio),Memory optimized,8,r5d.2xlarge,64 GiB,1 x 300 NVMe SSD,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+YCJNW3H5EAT9E3W2.JRTCKXETXF.6YS6EN2CT7,0.3043000000,US East (Ohio),Memory optimized,4,r7a.xlarge,32 GiB,EBS only,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+YNYQ6X5V79PKWGEB.JRTCKXETXF.6YS6EN2CT7,1.0080000000,US East (Ohio),Memory optimized,16,r5.4xlarge,128 GiB,EBS only,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+YPWTWTN28G5CJN8S.JRTCKXETXF.6YS6EN2CT7,0.4608000000,US East (Ohio),Memory optimized,8,r6gd.2xlarge,64 GiB,1 x 475 NVMe SSD,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+YQ4YBPGFTJTMW8AW.JRTCKXETXF.6YS6EN2CT7,1.6680000000,US East (Ohio),Memory optimized,8,x1e.2xlarge,244 GiB,1 x 240 SSD,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+W3UG35SJHY4KRPFX.JRTCKXETXF.6YS6EN2CT7,4.0320000000,US East (Ohio),Memory optimized,64,r6i.16xlarge,512 GiB,EBS only,25000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+W4ZRFQ4Q6W3P22C4.JRTCKXETXF.6YS6EN2CT7,4.2560000000,US East (Ohio),Memory optimized,64,r4.16xlarge,488 GiB,EBS only,20 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+W5Y7NX8E8HPN24S3.JRTCKXETXF.6YS6EN2CT7,0.1068000000,US East (Ohio),General purpose,2,m7gd.large,8 GiB,1 x 118 NVMe SSD,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+W6CG3TUC9YBBCPMB.JRTCKXETXF.6YS6EN2CT7,26.6760000000,US East (Ohio),Memory optimized,128,x2iedn.metal,4096 GiB,2 x 1900 NVMe SSD,100 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+W8YRQ5GSW6TBHTCB.JRTCKXETXF.6YS6EN2CT7,0.1134000000,US East (Ohio),Compute optimized,2,c6in.large,4 GiB,EBS only,Up to 25000 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+WA4AUYC2JRQGFNQX.JRTCKXETXF.6YS6EN2CT7,0.1008000000,US East (Ohio),General purpose,2,m7i.large,8 GiB,EBS only,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+WCJN2C3YYJ3WUC99.JRTCKXETXF.6YS6EN2CT7,1.8547200000,US East (Ohio),General purpose,32,m7a.8xlarge,128 GiB,EBS only,12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+WD7DZ22R4WVPGGVW.JRTCKXETXF.6YS6EN2CT7,3.0600000000,US East (Ohio),GPU instance,8,p3.2xlarge,61 GiB,EBS only,Up to 10 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+WE96ZP85B8UMGMAV.JRTCKXETXF.6YS6EN2CT7,13.3504000000,US East (Ohio),GPU instance,192,g6.48xlarge,768 GiB,8 x 940 NVMe SSD,100 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+WFSTU5Q6ZV5UQU9F.JRTCKXETXF.6YS6EN2CT7,0.0624000000,US East (Ohio),Compute optimized,1,c7gn.medium,2 GiB,EBS only,Up to 25 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+WGZ57G62MB4V8BAX.JRTCKXETXF.6YS6EN2CT7,6.0480000000,US East (Ohio),Memory optimized,96,r6i.24xlarge,768 GiB,EBS only,37500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+WHT8TY3TK5ZXHD5E.JRTCKXETXF.6YS6EN2CT7,5.4400000000,US East (Ohio),Compute optimized,128,c6i.32xlarge,256 GiB,EBS only,50000 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+WM4RQEMF9SXRWEMX.JRTCKXETXF.6YS6EN2CT7,6.1440000000,US East (Ohio),General purpose,128,m6i.32xlarge,512 GiB,EBS only,50000 Megabit,Linux,General Purpose,Linux,NA,No License required
+WMNX2DDVQXFEJM2X.JRTCKXETXF.6YS6EN2CT7,0.1728000000,US East (Ohio),General purpose,4,m6a.xlarge,16 GiB,EBS only,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+WN977FJGFJ8J4XQ4.JRTCKXETXF.6YS6EN2CT7,2.8800000000,US East (Ohio),Compute optimized,96,hpc6a.48xlarge,384 GiB,EBS only,100 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+WNEREZ5HA9GZPFXY.JRTCKXETXF.6YS6EN2CT7,0.7140000000,US East (Ohio),Compute optimized,16,c7i.4xlarge,32 GiB,EBS only,Up to 12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+WTADZ55ETP6ZEN73.JRTCKXETXF.6YS6EN2CT7,4.9920000000,US East (Ohio),Storage optimized,64,i3.16xlarge,488 GiB,8 x 1900 NVMe SSD,20 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+WTHRW5EZ8T22UFYZ.JRTCKXETXF.6YS6EN2CT7,0.0047000000,US East (Ohio),General purpose,2,t3a.nano,0.5 GiB,EBS only,Up to 5 Gigabit,Linux,General Purpose,Linux,NA,No License required
+WTJN64XKP8U98SAY.JRTCKXETXF.6YS6EN2CT7,1.4515000000,US East (Ohio),Compute optimized,32,c7gd.8xlarge,64 GiB,1 x 1900 NVMe SSD,15 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+WTSXT357HUR7X527.JRTCKXETXF.6YS6EN2CT7,8.5680000000,US East (Ohio),Compute optimized,192,c7i.metal-48xl,384 GiB,EBS only,50000 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+WVKZPG8TTUFUW7DA.JRTCKXETXF.6YS6EN2CT7,1.8144000000,US East (Ohio),Memory optimized,32,r6a.8xlarge,256 GiB,EBS only,12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+WVXZUY6M42J6G8U5.JRTCKXETXF.6YS6EN2CT7,2.3840000000,US East (Ohio),Memory optimized,32,r5n.8xlarge,256 GiB,EBS only,25 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+WXTX9CDNRB93XCCA.JRTCKXETXF.6YS6EN2CT7,3.1440000000,US East (Ohio),Memory optimized,48,r5ad.12xlarge,384 GiB,2 x 900 NVMe SSD,10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+X2YKNUZQ3HQMQ9RS.JRTCKXETXF.6YS6EN2CT7,0.3616000000,US East (Ohio),General purpose,8,m6gd.2xlarge,32 GiB,1 x 475 NVMe SSD,Up to 10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+X3A6RZ2SXBTHS2X7.JRTCKXETXF.6YS6EN2CT7,2.8928000000,US East (Ohio),General purpose,64,m6gd.metal,256 GiB,2 x 1900 NVMe SSD,25 Gigabit,Linux,General Purpose,Linux,NA,No License required
+X4YTEF3PVAPZB6SB.JRTCKXETXF.6YS6EN2CT7,3.9120000000,US East (Ohio),GPU instance,48,g4dn.12xlarge,192 GiB,900 GB NVMe SSD,50 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+YM4ZZ947QVJE9Y38.JRTCKXETXF.6YS6EN2CT7,2.8476000000,US East (Ohio),General purpose,48,m6id.12xlarge,192 GiB,2 x 1425 NVMe SSD,18750 Megabit,Linux,General Purpose,Linux,NA,No License required
+YM2XN39USBQN9AZ5.JRTCKXETXF.6YS6EN2CT7,0.0168000000,US East (Ohio),General purpose,2,t4g.small,2 GiB,EBS only,Up to 5 Gigabit,Linux,General Purpose,Linux,NA,No License required
+XYSECN3PWZ9HYPN2.JRTCKXETXF.6YS6EN2CT7,0.6680000000,US East (Ohio),Memory optimized,8,x2gd.2xlarge,128 GiB,1 x 474 SSD,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+XZRBC9MJZPZWHBW8.JRTCKXETXF.6YS6EN2CT7,0.3060000000,US East (Ohio),Compute optimized,8,c6a.2xlarge,16 GiB,EBS only,Up to 12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+X7XJX736FYQA5XZT.JRTCKXETXF.6YS6EN2CT7,4.2840000000,US East (Ohio),Compute optimized,96,c7i.metal-24xl,192 GiB,EBS only,37500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+XBRVYNQEYQU6T3AV.JRTCKXETXF.6YS6EN2CT7,0.1310000000,US East (Ohio),Memory optimized,2,r5ad.large,16 GiB,1 x 75 NVMe SSD,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+XDHQKKJNEDKZ7R33.JRTCKXETXF.6YS6EN2CT7,7.4188800000,US East (Ohio),General purpose,128,m7a.32xlarge,512 GiB,EBS only,50000 Megabit,Linux,General Purpose,Linux,NA,No License required
+XDKWHSADPWH92UUU.JRTCKXETXF.6YS6EN2CT7,9.6768000000,US East (Ohio),General purpose,192,m7i.48xlarge,768 GiB,EBS only,50000 Megabit,Linux,General Purpose,Linux,NA,No License required
+XKNQ264P5N9AYCD2.JRTCKXETXF.6YS6EN2CT7,0.0188000000,US East (Ohio),General purpose,2,t3a.small,2 GiB,EBS only,Up to 5 Gigabit,Linux,General Purpose,Linux,NA,No License required
+XMSBZH96MCMUW4M2.JRTCKXETXF.6YS6EN2CT7,0.1785000000,US East (Ohio),Compute optimized,4,c7i.xlarge,8 GiB,EBS only,Up to 12500 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+XPVRJ9D7YT87XBCH.JRTCKXETXF.6YS6EN2CT7,9.6768000000,US East (Ohio),General purpose,192,m7i.metal-48xl,768 GiB,EBS only,50000 Megabit,Linux,General Purpose,Linux,NA,No License required
+XT8JF7STDEQ5U974.JRTCKXETXF.6YS6EN2CT7,0.1670000000,US East (Ohio),Memory optimized,2,r5dn.large,16 GiB,1 x 75 NVMe SSD,Up to 25 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+XU6ESG4N9JZ3NRHU.JRTCKXETXF.6YS6EN2CT7,0.3340000000,US East (Ohio),Memory optimized,4,x2gd.xlarge,64 GiB,1 x 237 SSD,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+XX8FRUYWYE53X9B4.JRTCKXETXF.6YS6EN2CT7,0.1344000000,US East (Ohio),General purpose,4,t4g.xlarge,16 GiB,EBS only,Up to 5 Gigabit,Linux,General Purpose,Linux,NA,No License required
+XXEED49RH9DQZ834.JRTCKXETXF.6YS6EN2CT7,0.1521500000,US East (Ohio),Memory optimized,2,r7a.large,16 GiB,EBS only,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+XGCN87X3G48M3BYR.JRTCKXETXF.6YS6EN2CT7,0.1360000000,US East (Ohio),Compute optimized,4,c6g.xlarge,8 GiB,EBS only,Up to 10 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+XJ8D2R4439973G9C.JRTCKXETXF.6YS6EN2CT7,3.6288000000,US East (Ohio),Compute optimized,64,c6in.16xlarge,128 GiB,EBS only,100000 Megabit,Linux,Compute Optimized,Linux,NA,No License required
+YY6TCF5SAJX2C3TN.JRTCKXETXF.6YS6EN2CT7,6.6690000000,US East (Ohio),Memory optimized,64,x2idn.16xlarge,1024 GiB,1 x 1900 NVMe SSD,50 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+YZ4SN358MYPRUZVF.JRTCKXETXF.6YS6EN2CT7,1.8480000000,US East (Ohio),General purpose,48,m6g.12xlarge,192 GiB,EBS only,20 Gigabit,Linux,General Purpose,Linux,NA,No License required
+YZGT6U4DWJDJQA7S.JRTCKXETXF.6YS6EN2CT7,1.3824000000,US East (Ohio),Compute optimized,32,c6gn.8xlarge,64 GiB,EBS only,50 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+Z3Q4Q4Z2BRC63K8T.JRTCKXETXF.6YS6EN2CT7,0.1915200000,US East (Ohio),General purpose,4,m7i-flex.xlarge,16 GiB,EBS only,Up to 12500 Megabit,Linux,General Purpose,Linux,NA,No License required
+Z5UNB5QXNF5PAQNN.JRTCKXETXF.6YS6EN2CT7,0.2142000000,US East (Ohio),Memory optimized,4,r7g.xlarge,32 GiB,EBS only,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+YQZKQQ43X7CBE4ZD.JRTCKXETXF.6YS6EN2CT7,0.1330000000,US East (Ohio),Memory optimized,2,r4.large,15.25 GiB,EBS only,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+YR3MEJZD3USM8NC3.JRTCKXETXF.6YS6EN2CT7,0.0416000000,US East (Ohio),General purpose,2,t3.medium,4 GiB,EBS only,Up to 5 Gigabit,Linux,General Purpose,Linux,NA,No License required
+YXSUKA5AV8JBQ3P4.JRTCKXETXF.6YS6EN2CT7,0.3720000000,US East (Ohio),Memory optimized,4,z1d.xlarge,32 GiB,1 x 150 NVMe SSD,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+ZNHJWCZMTQHSTPTE.JRTCKXETXF.6YS6EN2CT7,4.6016000000,US East (Ohio),GPU instance,48,g6.12xlarge,192 GiB,4 X 940 GB NVMe SSD,40 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+ZZNXUPSQ9BSA2M88.JRTCKXETXF.6YS6EN2CT7,0.0230000000,US East (Ohio),General purpose,1,t2.small,2 GiB,EBS only,Low to Moderate,Linux,General Purpose,Linux,NA,No License required
+ZZ3RTJYBHRBCJYC7.JRTCKXETXF.6YS6EN2CT7,0.7582000000,US East (Ohio),Machine Learning ASIC Instances,4,inf2.xlarge,16 GiB,EBS only,Up to 15 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+Z85PFK26R5HVYF6M.JRTCKXETXF.6YS6EN2CT7,1.3730000000,US East (Ohio),Storage optimized,16,i4i.4xlarge,128 GiB,1 x 3750 NVMe SSD,Up to 25 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+ZDDYX9E844C9PPSA.JRTCKXETXF.6YS6EN2CT7,2.2800000000,US East (Ohio),GPU instance,32,g3.8xlarge,244 GiB,EBS only,10 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+ZEXGDPPAXSUWGPME.JRTCKXETXF.6YS6EN2CT7,0.1134000000,US East (Ohio),Memory optimized,2,r6a.large,16 GiB,EBS only,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+ZEY3ZAM8JQWK5TPE.JRTCKXETXF.6YS6EN2CT7,0.3637900000,US East (Ohio),Storage optimized,4,im4gn.xlarge,16 GiB,1 x 1875 SSD,Up to 25 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+ZFJSVVWU9AM6D58Q.JRTCKXETXF.6YS6EN2CT7,2.5628000000,US East (Ohio),General purpose,48,m7gd.12xlarge,192 GiB,2 x 1425 NVMe SSD,22500 Megabit,Linux,General Purpose,Linux,NA,No License required
+ZGCQQP8V273MUU9V.JRTCKXETXF.6YS6EN2CT7,10.8864000000,US East (Ohio),Memory optimized,192,r6a.metal,1536 GiB,EBS only,50000 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+ZHZFRTJV7DCA47JT.JRTCKXETXF.6YS6EN2CT7,0.1392300000,US East (Ohio),General purpose,2,m6in.large,8 GiB,EBS only,Up to 25000 Megabit,Linux,General Purpose,Linux,NA,No License required
+ZKHJ2D3943PCPQJ5.JRTCKXETXF.6YS6EN2CT7,46.4039100000,US East (Ohio),Memory optimized,224,u-6tb1.56xlarge,6144 GiB,EBS only,100 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+ZMUUYVBE4X9YWP8X.JRTCKXETXF.6YS6EN2CT7,2.7120000000,US East (Ohio),Storage optimized,24,i3en.6xlarge,192 GiB,2 x 7500 NVMe SSD,25 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+ZR3RQCJWRETJ5NVH.JRTCKXETXF.6YS6EN2CT7,0.9216000000,US East (Ohio),Memory optimized,16,r6gd.4xlarge,128 GiB,1 x 950 NVMe SSD,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+ZSKQTY7PTSUK5FGB.JRTCKXETXF.6YS6EN2CT7,0.5569200000,US East (Ohio),General purpose,8,m6in.2xlarge,32 GiB,EBS only,Up to 40000 Megabit,Linux,General Purpose,Linux,NA,No License required
+ZSX3NBYHSUTH7852.JRTCKXETXF.6YS6EN2CT7,3.4560000000,US East (Ohio),Memory optimized,48,r5d.12xlarge,384 GiB,2 x 900 NVMe SSD,10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+ZUVDBYBM2QV74J3P.JRTCKXETXF.6YS6EN2CT7,0.1152000000,US East (Ohio),Memory optimized,2,r6gd.large,16 GiB,1 x 118 NVMe SSD,Up to 10 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+ZW46J3GU9DJYQYP7.JRTCKXETXF.6YS6EN2CT7,13.3380000000,US East (Ohio),Memory optimized,64,x2iedn.16xlarge,2048 GiB,1 x 1900 NVMe SSD,50 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+ZWNAVY57PR5M6QDR.JRTCKXETXF.6YS6EN2CT7,20.0070000000,US East (Ohio),Memory optimized,96,x2iedn.24xlarge,3072 GiB,2 x 1425 NVMe SSD,75 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+ZWW6ZZSFWQM7H534.JRTCKXETXF.6YS6EN2CT7,0.6240000000,US East (Ohio),Storage optimized,8,i3.2xlarge,61 GiB,1 x 1900 NVMe SSD,Up to 10 Gigabit,Linux,Storage Optimized,Linux,NA,No License required
+UVU9TSGG6QHSMMRD.JRTCKXETXF.6YS6EN2CT7,5.4240000000,US East (Ohio),General purpose,96,m5d.24xlarge,384 GiB,4 x 900 NVMe SSD,25 Gigabit,Linux,General Purpose,Linux,NA,No License required
+TTNKGMUT2JFAZPEF.JRTCKXETXF.6YS6EN2CT7,2.9030000000,US East (Ohio),Compute optimized,64,c7gd.16xlarge,128 GiB,2 x 1900 NVMe SSD,30 Gigabit,Linux,Compute Optimized,Linux,NA,No License required
+TU6E93DA92VA6UYR.JRTCKXETXF.6YS6EN2CT7,4.0080000000,US East (Ohio),Memory optimized,48,r5dn.12xlarge,384 GiB,2 x 900 GB NVMe SSD,50 Gigabit,Linux,Memory Optimized,Linux,NA,No License required
+TVRTRAXGTDJNN898.JRTCKXETXF.6YS6EN2CT7,0.1540000000,US East (Ohio),General purpose,4,m6g.xlarge,16 GiB,EBS only,Up to 10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+TYFAFX2AW33V69GV.JRTCKXETXF.6YS6EN2CT7,1.2172000000,US East (Ohio),Memory optimized,16,r7a.4xlarge,128 GiB,EBS only,Up to 12500 Megabit,Linux,Memory Optimized,Linux,NA,No License required
+V2VPYCJZ8GJ23VKP.JRTCKXETXF.6YS6EN2CT7,32.7726000000,US East (Ohio),GPU instance,96,p4d.24xlarge,1152 GiB,8 x 1000 SSD,400 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+V2W963DZ3S2583PM.JRTCKXETXF.6YS6EN2CT7,6.4906300000,US East (Ohio),Machine Learning ASIC Instances,96,inf2.24xlarge,384 GiB,EBS only,50 Gigabit,Linux,Accelerated Computing,Linux,NA,No License required
+V7N8YPWWSY33BMDU.JRTCKXETXF.6YS6EN2CT7,0.7680000000,US East (Ohio),General purpose,16,m5.4xlarge,64 GiB,EBS only,Up to 10 Gigabit,Linux,General Purpose,Linux,NA,No License required
+V8QFQD6G2R5JGEHN.JRTCKXETXF.6YS6EN2CT7,4.9420800000,US East (Ohio),Storage optimized,64,i4g.16xlarge,512 GiB,4 x 3750 SSD,37500 Megabit,Linux,Storage Optimized,Linux,NA,No License required
